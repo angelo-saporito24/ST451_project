@@ -1,0 +1,9275 @@
+{
+  "vocab": [
+    "Γαῖα",
+    "Δίʼ",
+    "Διός",
+    "Διὸς",
+    "Μοῦσα",
+    "Πειθώ",
+    "Σωκράτους",
+    "Σώκρατες",
+    "αἰσθητός",
+    "αἰσχρός",
+    "αἰσχύνη",
+    "αἰσχύνω",
+    "αἰτέω",
+    "αἰτία",
+    "αἰτιάομαι",
+    "αἴσθησις",
+    "αἵρεσις",
+    "αἶσχος",
+    "αἷμα",
+    "αὐλέω",
+    "αὐλητής",
+    "αὐξάνω",
+    "αὐτίκα",
+    "αὐτόθεν",
+    "αὐτόθι",
+    "αὐτόματος",
+    "αὐχήν",
+    "βάθος",
+    "βάλλω",
+    "βέβαιος",
+    "βία",
+    "βίαιος",
+    "βίος",
+    "βαίνω",
+    "βαδίζω",
+    "βαρύς",
+    "βασιλεύς",
+    "βιάζω",
+    "βιάω",
+    "βιβλίον",
+    "βιόω",
+    "βλάπτω",
+    "βλέπω",
+    "βλαβερός",
+    "βοάω",
+    "βοηθέω",
+    "βοηθός",
+    "βουλεύω",
+    "βραδύς",
+    "βραχύς",
+    "γάμος",
+    "γένεσις",
+    "γένοιτʼ",
+    "γένος",
+    "γέρας",
+    "γείτων",
+    "γελάω",
+    "γεννάω",
+    "γενναῖος",
+    "γεωμετρία",
+    "γεωργός",
+    "γλυκύς",
+    "γλῶσσα",
+    "γνώμη",
+    "γνώριμος",
+    "γονεύς",
+    "γράμμα",
+    "γράφω",
+    "γραφή",
+    "γραφεύς",
+    "γραφικός",
+    "γυμναστικός",
+    "γυναικόω",
+    "γῆρας",
+    "δάκρυον",
+    "δέησις",
+    "δένδρον",
+    "δίαιτα",
+    "δίειμι",
+    "δίκη",
+    "δίς",
+    "δαίμων",
+    "δαιμόνιος",
+    "δείδω",
+    "δειλία",
+    "δεινόω",
+    "δεκάω",
+    "δεξιός",
+    "δεσμεύω",
+    "δεσμός",
+    "δεσπότης",
+    "δεύτερος",
+    "δεῦρο",
+    "δηλόω",
+    "δημιουργέω",
+    "δημιουργός",
+    "δημόσιος",
+    "διά-ὁρίζω",
+    "διάγω",
+    "διάθεσις",
+    "διάκειμαι",
+    "διάμετρον",
+    "διάφορος",
+    "διέξειμι",
+    "διέξοδος",
+    "διέρχομαι",
+    "διίστημι",
+    "διαίρεσις",
+    "διαβάλλω",
+    "διαγιγνώσκω",
+    "διαιρέω",
+    "διακρίνω",
+    "διακωλύω",
+    "διαλαμβάνω",
+    "διαλεκτικός",
+    "διαλλάσσω",
+    "διαλύω",
+    "διαμάχομαι",
+    "διαμαρτάνω",
+    "διανοέομαι",
+    "διαπονέω",
+    "διαπορέω",
+    "διαπορεύω",
+    "διατάσσω",
+    "διατίθημι",
+    "διατελέω",
+    "διατελής",
+    "διατρίβω",
+    "διατριβή",
+    "διαφερόντως",
+    "διαφεύγω",
+    "διαφθείρω",
+    "διαφθορά",
+    "διαφορά",
+    "διδάσκαλος",
+    "διδάσκω",
+    "διδαχή",
+    "διεξέρχομαι",
+    "διηγέομαι",
+    "διθύραμβος",
+    "διισχυρίζομαι",
+    "δικαιοσύνη",
+    "δικαστής",
+    "δικεῖν",
+    "διοικέω",
+    "διορίζω",
+    "διπλόος",
+    "δισσός",
+    "διχάω",
+    "διό",
+    "διότι",
+    "διώκω",
+    "δοκεύς",
+    "δοκόω",
+    "δοκώ",
+    "δοξάζω",
+    "δουλεύω",
+    "δοῦλος",
+    "δράω",
+    "δυστυχία",
+    "δυσχεραίνω",
+    "δωρέομαι",
+    "δόγμα",
+    "δόξα",
+    "δόξις",
+    "δύʼ",
+    "δύναιτʼ",
+    "δύσκολος",
+    "δύω2",
+    "δώδεκα",
+    "δῆτα",
+    "δῖος",
+    "εἰκών",
+    "εἰλικρινής",
+    "εἰρωνεύομαι",
+    "εἰσάγω",
+    "εἴδομαι",
+    "εἴδωλον",
+    "εἴρω",
+    "εἴσειμι",
+    "εἴτʼ",
+    "εἶδος",
+    "εἶεν",
+    "εἶτʼ",
+    "εἶτα",
+    "εὐήθης",
+    "εὐδαίμων",
+    "εὐδαιμονέω",
+    "εὐδαιμονία",
+    "εὐεργετέω",
+    "εὐλαβέομαι",
+    "εὐπορέω",
+    "εὐριπίδης",
+    "εὐτυχής",
+    "εὐτυχία",
+    "εὐφυής",
+    "εὔλογος",
+    "εὔχομαι",
+    "εὕρησις",
+    "ζάω",
+    "ζέω",
+    "ζήτησις",
+    "ζητητέος",
+    "ζωή",
+    "ζώιον",
+    "ζῳόω",
+    "θάλασσα",
+    "θάλλω",
+    "θάνατος",
+    "θάρσος",
+    "θάσσων",
+    "θέατρον",
+    "θέμις",
+    "θανατόω",
+    "θαρσέω",
+    "θαυμάσιος",
+    "θεάομαι",
+    "θεατός",
+    "θεραπεία",
+    "θεραπεύω",
+    "θερμαίνω",
+    "θερμός",
+    "θερμότης",
+    "θετέος",
+    "θεωρέω",
+    "θεωρία",
+    "θηράω",
+    "θηρίον",
+    "θηρεύω",
+    "θηριόω",
+    "θνήσκω",
+    "θνητός",
+    "θρίξ",
+    "θυσία",
+    "θόρυβος",
+    "θύρα",
+    "θύω1",
+    "θῆλυς",
+    "κάθαρσις",
+    "κάθημαι",
+    "κάλλος",
+    "κάτος",
+    "κέω",
+    "κίνδυνος",
+    "κίνησις",
+    "καίπερ",
+    "καίω",
+    "καθά",
+    "καθίστημι",
+    "καθαίρω",
+    "καθαρός",
+    "καθεύδω",
+    "καθοράω",
+    "καινός",
+    "καιρός",
+    "καλλιόω",
+    "καρδία",
+    "καρπός1",
+    "καρπόω",
+    "καρτερέω",
+    "κατάδηλος",
+    "κατέχω",
+    "καταβάλλω",
+    "καταγέλαστος",
+    "καταγελάω",
+    "καταγιγνώσκω",
+    "καταλαμβάνω",
+    "καταλιμπάνω",
+    "κατανοέω",
+    "κατασκευάζω",
+    "καταφρονέω",
+    "καταψηφίζομαι",
+    "κατεῖδον",
+    "κατηγορέω",
+    "κατηγορία",
+    "κατορθόω",
+    "κενός",
+    "κεράννυμι",
+    "κεφάλαιος",
+    "κεφαλή",
+    "κεῖμαι",
+    "κινέω",
+    "κινδυνεύω",
+    "κλίνω",
+    "κοινωνέω",
+    "κοινωνία",
+    "κοινωνός",
+    "κοινός",
+    "κοινόω",
+    "κομίζω",
+    "κομψός",
+    "κοσμέω",
+    "κοῦφος",
+    "κράτιστος",
+    "κρίνω",
+    "κρίσις",
+    "κρατέω",
+    "κρείσσων",
+    "κριτής",
+    "κρᾶσις",
+    "κτάομαι",
+    "κτῆμα",
+    "κτῆσις",
+    "κυβερνήτης",
+    "κωλύω",
+    "κωμῳδέω",
+    "κωμῳδία",
+    "κωμῳδοποιός",
+    "κόιλος",
+    "κόσμιος",
+    "κόσμος",
+    "κύκλος",
+    "κύριος",
+    "κύων",
+    "λέγω2",
+    "λέξις",
+    "λήγω",
+    "λίαν",
+    "λίθος",
+    "λαγχάνω",
+    "λαμπρός",
+    "λείπω",
+    "λεκτέος",
+    "λευκός",
+    "λεῖος",
+    "λογάω",
+    "λογίζομαι",
+    "λογισμός",
+    "λοιδορέω",
+    "λοιπάζω",
+    "λυπέω",
+    "λυπηρός",
+    "λύπη",
+    "λύσις",
+    "λύω",
+    "μάθημα",
+    "μάθησις",
+    "μάλιστʼ",
+    "μάντις",
+    "μάχη",
+    "μάχομαι",
+    "μέγεθος",
+    "μέθοδος",
+    "μέλας",
+    "μέλι",
+    "μέλισσα",
+    "μέλω",
+    "μέμφομαι",
+    "μένος",
+    "μένω",
+    "μέρα",
+    "μέση",
+    "μέτειμι1",
+    "μέτειμι2",
+    "μέτριος",
+    "μέτρον",
+    "μέχρι",
+    "μήπω",
+    "μής",
+    "μήτʼ",
+    "μήτηρ",
+    "μίγνυμι",
+    "μίμημα",
+    "μίμησις",
+    "μαίνομαι",
+    "μαθητής",
+    "μακάριος",
+    "μαλακός",
+    "μαλθακός",
+    "μανία",
+    "μανιάω",
+    "μαντεία",
+    "μαντεύομαι",
+    "μαντικός",
+    "μαρτυρέω",
+    "μαρτύρομαι",
+    "μαχάω",
+    "μείρομαι",
+    "μεθʼ",
+    "μελετάω",
+    "μεστός",
+    "μετέχω",
+    "μεταβάλλω",
+    "μεταβαίνω",
+    "μεταβολή",
+    "μεταδίδωμι",
+    "μεταλαμβάνω",
+    "μεταξύ",
+    "μεταπίπτω",
+    "μεταχειρίζω",
+    "μηδʼ",
+    "μηδέποτε",
+    "μηδέτερος",
+    "μηδαμός",
+    "μηδαμῇ",
+    "μηκέτι",
+    "μηκύνω",
+    "μηνύω",
+    "μηχανάομαι",
+    "μηχανή",
+    "μικρότης",
+    "μικτός",
+    "μιμέομαι",
+    "μισέω",
+    "μισθός",
+    "μνήμη",
+    "μνημονεύω",
+    "μορφή",
+    "μουσικός",
+    "μουσόομαι",
+    "μοχθηρία",
+    "μοχθηρός",
+    "μυρίος",
+    "μόγις",
+    "μόνιμος",
+    "μόριον",
+    "μόριος",
+    "μῆκος",
+    "μῦθος",
+    "μῶμαι",
+    "νέμω",
+    "νέομαι",
+    "νή",
+    "νεότης",
+    "νικάω",
+    "νοέω",
+    "νοητός",
+    "νομίζω",
+    "νοσέω",
+    "νουθετέω",
+    "νυνί",
+    "νυστάζω",
+    "νόμιμος",
+    "νόμος",
+    "νόος",
+    "νόσημα",
+    "νόσος",
+    "νύξ",
+    "ξένος2",
+    "ξηρός",
+    "οἰάω",
+    "οἰκέω",
+    "οἰκία",
+    "οἰμάω",
+    "οἴκαδε",
+    "οἴκησις",
+    "οἴχομαι",
+    "οἶδʼ",
+    "οἶνον",
+    "οἶσθʼ",
+    "οὐδʼ",
+    "οὐδέποτε",
+    "οὐδέτερος",
+    "οὐδαμῇ",
+    "οὐκέτι",
+    "οὐράνιος",
+    "οὐρανός",
+    "οὐρανόω",
+    "οὐσία",
+    "οὑτωσί",
+    "οὔθʼ",
+    "οὔκουν",
+    "οὔτʼ",
+    "οὔτις",
+    "οὖς",
+    "οὖσον",
+    "πάγκαλος",
+    "πάθημα",
+    "πάθος",
+    "πάντʼ",
+    "πάντῃ",
+    "πάομαι",
+    "πάρεργος",
+    "πάσσω",
+    "πέμπτος",
+    "πέμπω",
+    "πένης",
+    "πέντε",
+    "πέρας",
+    "πέτρα",
+    "πήγνυμι",
+    "πίπτω",
+    "πίστις",
+    "παίζω",
+    "παιδεία",
+    "παιδεύω",
+    "παιδιή",
+    "παιδικός",
+    "παλαιός",
+    "παλαιόω",
+    "παμπολύς",
+    "πανταχοῦ",
+    "πανταχῆ",
+    "παντελής",
+    "παντοδαπής",
+    "παντοδαπός",
+    "παντοῖος",
+    "παράδειγμα",
+    "παράνομος",
+    "παράπαν",
+    "παρέρχομαι",
+    "παρίημι",
+    "παραβάλλω",
+    "παραγίγνομαι",
+    "παραδίδωμι",
+    "παρακαλέω",
+    "παραλαμβάνω",
+    "παραλείπω",
+    "παραπλήσιος",
+    "παρασκευάζω",
+    "παραχώννυμι",
+    "παροιμία",
+    "παρουσία",
+    "παύω",
+    "πείθω",
+    "πεζός",
+    "πειρατέος",
+    "πενία",
+    "περίειμι1",
+    "περίοδος",
+    "περαίνω",
+    "περιέχω",
+    "περιαιρέω",
+    "περιγίγνομαι",
+    "περιλαμβάνω",
+    "περιμένω",
+    "περισσός",
+    "περιφέρω",
+    "πιθανός",
+    "πικρός",
+    "πιστεύω",
+    "πιστός1",
+    "πλάσσω",
+    "πλέκω",
+    "πλήρης",
+    "πλήσσω",
+    "πλανάω",
+    "πλείων",
+    "πλευρά",
+    "πληγή",
+    "πλημμελέω",
+    "πλημμελής",
+    "πληρόω",
+    "πλησίος",
+    "πλησιάζω",
+    "πλούσιος",
+    "πλοῖον",
+    "πλοῦτος1",
+    "πνεῦμα",
+    "ποίημα",
+    "ποθέω",
+    "ποθεν",
+    "ποι",
+    "ποιητέος",
+    "ποιητικός",
+    "ποικίλλω",
+    "ποικίλος",
+    "ποιός",
+    "πολέμιος",
+    "πολίτης",
+    "πολεμέω",
+    "πολεμικός",
+    "πολιτικός",
+    "πολλαχοῦ",
+    "πολλαχῆ",
+    "πολυειδής",
+    "πονέω",
+    "πονηρία",
+    "πονηρός",
+    "πορίζω",
+    "πορεία",
+    "πορεύω",
+    "ποτʼ",
+    "ποταμός",
+    "ποτός",
+    "πούς",
+    "πρέπω",
+    "πρέσβυς",
+    "πραγματεία",
+    "πραγματεύομαι",
+    "πρεπόντως",
+    "πρεσβύτης",
+    "προάγω",
+    "προαιρέω",
+    "προβάλλω",
+    "προερέω",
+    "προθυμέομαι",
+    "προθυμία",
+    "προσάπτω",
+    "προσέρχομαι",
+    "προσέχω",
+    "προσίημι",
+    "προσαγορεύω",
+    "προσγίγνομαι",
+    "προσδέομαι",
+    "προσδοκία",
+    "προσερέω",
+    "προσλαμβάνω",
+    "προσπίτνω",
+    "προσποιέω",
+    "προστάσσω",
+    "προστίθημι",
+    "προσφέρω",
+    "προτίθημι",
+    "πρόδικος",
+    "πρόειμι1",
+    "πρόθυμος",
+    "πρόκειμαι",
+    "πρόσειμι1",
+    "πρόσθεν",
+    "πρόσκειμαι",
+    "πρόσω",
+    "πρόσωπον",
+    "πρᾶξις",
+    "πρᾶος",
+    "πτηνός",
+    "πυνθάνομαι",
+    "πω",
+    "πόα",
+    "πόλεμος",
+    "πόνος",
+    "πόσος",
+    "πότε",
+    "πᾶσις",
+    "πῦρ",
+    "σάρξ",
+    "σέω",
+    "σαυτοῦ",
+    "σαφήνεια",
+    "σελήνη",
+    "σεμνός",
+    "σημαίνω",
+    "σημεῖον",
+    "σιτέομαι",
+    "σιτίον",
+    "σκέλος",
+    "σκέπτομαι",
+    "σκέψις",
+    "σκεπτέος",
+    "σκεῦος",
+    "σκιά",
+    "σκληρότης",
+    "σκότος",
+    "σοφία",
+    "σοφιστής",
+    "σοφόω",
+    "σπέρμα",
+    "σπείρω",
+    "σπουδάζω",
+    "σπουδαῖος",
+    "στάσιμος",
+    "στάσις",
+    "στερέω",
+    "στερεός",
+    "στοιχεῖον",
+    "στρέφω",
+    "στρατηγός",
+    "στρογγύλος",
+    "στόμα",
+    "στῆθος",
+    "συγγίγνομαι",
+    "συγγενής",
+    "συγγνώμη",
+    "συγχωρέω",
+    "συλλήβδην",
+    "συλλαμβάνω",
+    "συλλογίζομαι",
+    "συμβάλλω",
+    "συμβουλεύω",
+    "συμμίγνυμι",
+    "συμμετρία",
+    "συμπίτνω",
+    "συμπλέκω",
+    "συμφέρω",
+    "συμφορά",
+    "συμφωνέω",
+    "συμφύω",
+    "συνάγω",
+    "συνάπτω",
+    "συνέπομαι",
+    "συνέρχομαι",
+    "συνήθεια",
+    "συνίστημι",
+    "συναμφότεροι",
+    "συνδέω",
+    "συνδοκέω",
+    "συνεχής",
+    "συννοέω",
+    "συνουσία",
+    "συντίθημι",
+    "συντείνω",
+    "συνόχωκα",
+    "συχνός",
+    "σφέτερος",
+    "σφαῖρα",
+    "σχολάζω",
+    "σχολή",
+    "σωκρατέω",
+    "σωματόω",
+    "σωτηρία",
+    "σωφρονέω",
+    "σωφρόσυνος",
+    "σός",
+    "σύμμετρος",
+    "σύμπας",
+    "σύμφημι",
+    "σύμφυτος",
+    "σύνειμι1",
+    "σύνειμι2",
+    "σύνθεσις",
+    "σύνθετος",
+    "σύνοδος1",
+    "σύνοιδα",
+    "σύντονος",
+    "σύστασις",
+    "σώζω",
+    "σώφρων",
+    "σῖτος",
+    "σῶμα",
+    "τάξις",
+    "τάσσω",
+    "τάχʼ",
+    "τάχιστος",
+    "τάχος",
+    "τέλειος",
+    "τέλος",
+    "τέμνω",
+    "τέταρτος",
+    "τίμιος",
+    "τίνω",
+    "ταράσσω",
+    "ταῦθʼ",
+    "ταῦτʼ",
+    "τείνω",
+    "τεκμήριον",
+    "τεκμαίρομαι",
+    "τελέω",
+    "τελευτή",
+    "τελευταῖος",
+    "τετράγωνος",
+    "τεχνικός",
+    "τεχνόω",
+    "τεύχω",
+    "τηλικοῦτος",
+    "τιμάω",
+    "τιμή",
+    "τινʼ",
+    "τμῆμα",
+    "τοιαῦτʼ",
+    "τοιγάρ",
+    "τοιόσδε",
+    "τολμάω",
+    "τομή",
+    "τοσόσδε",
+    "τοτέ",
+    "τοῦθʼ",
+    "τρέπω",
+    "τρέφω",
+    "τρίγωνος",
+    "τρίς",
+    "τρίτος",
+    "τραγικός",
+    "τραγῳδία",
+    "τραχύς",
+    "τριάξω",
+    "τριτάω",
+    "τριχῆ",
+    "τροπόω",
+    "τροφή",
+    "τροφεύς",
+    "τυραννίς",
+    "τυφλός",
+    "τόδʼ",
+    "τότʼ",
+    "τύχη",
+    "υἱός",
+    "φάντασμα",
+    "φάος",
+    "φάρμακον",
+    "φάσκω",
+    "φίλιος",
+    "φίλος",
+    "φανάω",
+    "φανερός",
+    "φαντάζομαι",
+    "φεύγω",
+    "φθέγγομαι",
+    "φθίσις",
+    "φθίω",
+    "φθονέω",
+    "φθορά",
+    "φθόγγος",
+    "φθόνος",
+    "φιλέω",
+    "φιλοσοφέω",
+    "φιλοσοφία",
+    "φιλόσοφος",
+    "φιλότιμος",
+    "φοβέω",
+    "φοβερός",
+    "φορά",
+    "φορέω",
+    "φορτικός",
+    "φράζω",
+    "φρονέω",
+    "φροντίζω",
+    "φρόνησις",
+    "φυγή",
+    "φυλάσσω",
+    "φυλακή",
+    "φυλακτέος",
+    "φυτός",
+    "φωνέω",
+    "φόβος",
+    "φύλαξ",
+    "χάρις",
+    "χάω",
+    "χαίρω",
+    "χαλάω",
+    "χαλεπαίνω",
+    "χαλκεύς",
+    "χαρίεις",
+    "χαρίζομαι",
+    "χείρ",
+    "χείριστος",
+    "χθές",
+    "χράω2",
+    "χρήσιμος",
+    "χρεία",
+    "χρηματιστικός",
+    "χρηστός",
+    "χροιά",
+    "χρονόω",
+    "χρύσεος",
+    "χρῶμα",
+    "χωρέω",
+    "χωρίζω",
+    "χωρίς",
+    "χώρα",
+    "ψευδής",
+    "ψεύδω",
+    "ψεῦδος",
+    "ψυχρός",
+    "ψόγος",
+    "ψύχω",
+    "ἀέκων",
+    "ἀήθης",
+    "ἀίδιος",
+    "ἀγάω",
+    "ἀγανακτέω",
+    "ἀγαπάω",
+    "ἀγαπητός",
+    "ἀγωνίζομαι",
+    "ἀγών",
+    "ἀδεής",
+    "ἀδελφή",
+    "ἀδελφός",
+    "ἀδικέω",
+    "ἀδικία",
+    "ἀδυνατέω",
+    "ἀδυνατόω",
+    "ἀείδω",
+    "ἀεκούσιος",
+    "ἀηδής",
+    "ἀθάνατος",
+    "ἀθανασία",
+    "ἀθρέω",
+    "ἀθρόος",
+    "ἀκέομαι",
+    "ἀκέω",
+    "ἀκίνητος",
+    "ἀκοή",
+    "ἀκολασία",
+    "ἀκολουθέω",
+    "ἀκριβής",
+    "ἀκόλαστος",
+    "ἀκόλουθος",
+    "ἀλήθεια",
+    "ἀλγέω",
+    "ἀλγεινός",
+    "ἀληθινός",
+    "ἀλλάσσω",
+    "ἀλλοτριόω",
+    "ἀλλοῖος",
+    "ἀλλότριος",
+    "ἀλόγιστος",
+    "ἀμήχανος",
+    "ἀμαθής",
+    "ἀμαθία",
+    "ἀμελέω",
+    "ἀμφισβητέω",
+    "ἀμύνω",
+    "ἀνάγω",
+    "ἀνάλογος",
+    "ἀνάμνησις",
+    "ἀνάξιος",
+    "ἀνάπτω",
+    "ἀνέχω",
+    "ἀνίημι",
+    "ἀναγιγνώσκω",
+    "ἀναγκάζω",
+    "ἀναιρέω",
+    "ἀναλίσκω",
+    "ἀναλαμβάνω",
+    "ἀναμιμνήσκω",
+    "ἀναφέρω",
+    "ἀναφαίνω",
+    "ἀνδρίς",
+    "ἀνδραποδώδης",
+    "ἀνδρεία",
+    "ἀνδρεῖος",
+    "ἀνδρόω",
+    "ἀνελεύθερος",
+    "ἀνερωτάω",
+    "ἀνευρίσκω",
+    "ἀνθρώπειος",
+    "ἀνομοιότης",
+    "ἀντʼ",
+    "ἀντέχω",
+    "ἀνταποδίδωμι",
+    "ἀντιλέγω",
+    "ἀντιλαμβάνω",
+    "ἀνόητος",
+    "ἀνόμοιος",
+    "ἀνύω",
+    "ἀνώνυμος",
+    "ἀξιάω",
+    "ἀπάγω",
+    "ἀπέραντος",
+    "ἀπέρχομαι",
+    "ἀπέχω",
+    "ἀπαίδευτος",
+    "ἀπαγγέλλω",
+    "ἀπαλλάσσω",
+    "ἀπαλλαγή",
+    "ἀπαλλαξείω",
+    "ἀπαντάω",
+    "ἀπατάω",
+    "ἀπειθής",
+    "ἀπεικάζω",
+    "ἀπειρόω",
+    "ἀπεργάζομαι",
+    "ἀπεῖπον",
+    "ἀπιστέω",
+    "ἀποβάλλω",
+    "ἀποβαίνω",
+    "ἀποβλέπω",
+    "ἀπογίγνομαι",
+    "ἀποδέχομαι",
+    "ἀποδείκνυμι",
+    "ἀποδεκτέος",
+    "ἀποδημέω",
+    "ἀποδιδράσκω",
+    "ἀποθνήσκω",
+    "ἀποκρίνω",
+    "ἀποκρύπτω",
+    "ἀποκτείνω",
+    "ἀπολαμβάνω",
+    "ἀπολαύω",
+    "ἀπολιμπάνω",
+    "ἀπολογέομαι",
+    "ἀπολύω",
+    "ἀπομνημονεύω",
+    "ἀπονέμω",
+    "ἀποπέμπω",
+    "ἀπορέω",
+    "ἀπορία",
+    "ἀποτέμνω",
+    "ἀποτελέω",
+    "ἀποτρέπω",
+    "ἀποτυγχάνω",
+    "ἀπωθέω",
+    "ἀπό-ἐρῶ",
+    "ἀπόδειξις",
+    "ἀπόφημι",
+    "ἀργία",
+    "ἀργύριον",
+    "ἀρετάω",
+    "ἀριθμέω",
+    "ἀριθμός",
+    "ἀριστάω",
+    "ἀριστερός",
+    "ἀρκέω",
+    "ἀρτάω",
+    "ἀρχαῖος",
+    "ἀρχικός",
+    "ἀρόω",
+    "ἀσθένεια",
+    "ἀσθενής",
+    "ἀσφαλής",
+    "ἀτάρ",
+    "ἀτελής",
+    "ἀτιμάζω",
+    "ἀφʼ",
+    "ἀφίημι",
+    "ἀφαιρέω",
+    "ἀφανίζω",
+    "ἀφεστήξω",
+    "ἀφορίζω",
+    "ἀφροσύνη",
+    "ἀόρατος",
+    "ἁλίσκομαι",
+    "ἁμάρτημα",
+    "ἁμαρτάνω",
+    "ἁμός1",
+    "ἁπλόος",
+    "ἁπλός",
+    "ἁπλόω",
+    "ἁρμονία",
+    "ἁρμόζω",
+    "ἄατος",
+    "ἄγαλμα",
+    "ἄγαμαι",
+    "ἄγνοια",
+    "ἄγριος",
+    "ἄγροικος",
+    "ἄδηλος",
+    "ἄκρος",
+    "ἄλλʼ",
+    "ἄλλοθι",
+    "ἄλλῃ",
+    "ἄλογος",
+    "ἄμουσος",
+    "ἄνισος",
+    "ἄνοια",
+    "ἄνοος",
+    "ἄνω1",
+    "ἄνωθεν",
+    "ἄπειμι1",
+    "ἄπειμι2",
+    "ἄπειρος1",
+    "ἄποκρισλς",
+    "ἄπορος",
+    "ἄρα",
+    "ἄριστος",
+    "ἄρσην",
+    "ἄστρον",
+    "ἄστυ",
+    "ἄτεχνος",
+    "ἄτοπος",
+    "ἄφθονος",
+    "ἄφρων",
+    "ἄχθομαι",
+    "ἄψυχος",
+    "ἅπαντʼ",
+    "ἅπαξ",
+    "ἅπτω",
+    "ἅτε",
+    "ἆθλον",
+    "Ἀθηναίων",
+    "Ἀφροδίσιος",
+    "Ἀφροδίτη",
+    "Ἅιδου",
+    "ἐγγίγνομαι",
+    "ἐγγύς",
+    "ἐγγύτατος",
+    "ἐγγύτερος",
+    "ἐγείρω",
+    "ἐγκαλέω",
+    "ἐγκωμιάζω",
+    "ἐγκώμιος",
+    "ἐγχωρέω",
+    "ἐθίζω",
+    "ἐκβαίνω",
+    "ἐκεῖ",
+    "ἐκεῖθεν",
+    "ἐκεῖσε",
+    "ἐκλέγω",
+    "ἐκπίτνω",
+    "ἐκπλήσσω",
+    "ἐκτείνω",
+    "ἐκτός",
+    "ἐκφέρω",
+    "ἐκφανής",
+    "ἐκφεύγω",
+    "ἐλάχιστος",
+    "ἐλέγχω",
+    "ἐλεάω",
+    "ἐλεεινός",
+    "ἐλλείπω",
+    "ἐλπίς",
+    "ἐμέω",
+    "ἐμαυτοῦ",
+    "ἐμβάλλω",
+    "ἐμμένω",
+    "ἐμμελής",
+    "ἐμπίπλημι",
+    "ἐμπίτνω",
+    "ἐμποδίζω",
+    "ἐμποιέω",
+    "ἐμός",
+    "ἐν-εἰμί",
+    "ἐνίημι",
+    "ἐνίστημι",
+    "ἐναντιόομαι",
+    "ἐναργής",
+    "ἐνδέχομαι",
+    "ἐνδίδωμι",
+    "ἐνδεής",
+    "ἐνδείκνυμι",
+    "ἐνθάδε",
+    "ἐνθένδε",
+    "ἐνθυμέομαι",
+    "ἐνιαυτός",
+    "ἐννοέω",
+    "ἐντίθημι",
+    "ἐνταῦθα",
+    "ἐντεῦθεν",
+    "ἐντυγχάνω",
+    "ἐντός",
+    "ἐξέρχομαι",
+    "ἐξίστημι",
+    "ἐξαιρέω",
+    "ἐξαπατάω",
+    "ἐξελέγχω",
+    "ἐξελαύνω",
+    "ἐξεργάζομαι",
+    "ἐξετάζω",
+    "ἐξευρίσκω",
+    "ἐοικότως",
+    "ἐπέρχομαι",
+    "ἐπίσταμαι",
+    "ἐπίστημος",
+    "ἐπαινέω",
+    "ἐπακολουθέω",
+    "ἐπαύω",
+    "ἐπειδάν",
+    "ἐπιβουλεύω",
+    "ἐπιγίγνομαι",
+    "ἐπιεικής",
+    "ἐπιθυμέω",
+    "ἐπιθυμία",
+    "ἐπιθυμιάω",
+    "ἐπιλαμβάνω",
+    "ἐπιλανθάνομαι",
+    "ἐπιμέλεια",
+    "ἐπιμελέομαι",
+    "ἐπιμελής",
+    "ἐπισκέπτομαι",
+    "ἐπισκεπτέος",
+    "ἐπισκοπέω",
+    "ἐπιστήμων",
+    "ἐπιτάσσω",
+    "ἐπιτήδειος",
+    "ἐπιτήδευμα",
+    "ἐπιτίθημι",
+    "ἐπιτηδεύω",
+    "ἐπιτιμάω",
+    "ἐπιτρέπω",
+    "ἐπιτυγχάνω",
+    "ἐπιφέρω",
+    "ἐπιχώριος",
+    "ἐπονομάζω",
+    "ἐπωνύμιος",
+    "ἐπώχατο",
+    "ἐραστής",
+    "ἐρρωμένος",
+    "ἐρωτικός",
+    "ἐρώτησις",
+    "ἐσθής",
+    "ἐσθίω",
+    "ἐτάζω",
+    "ἐφʼ",
+    "ἐφάπτω",
+    "ἐφίημι",
+    "ἐφεξῆς",
+    "ἐχθρός",
+    "ἑκάστοτε",
+    "ἑκών",
+    "ἑξῆς",
+    "ἑταῖρος",
+    "ἑτοῖμος",
+    "ἔδω",
+    "ἔθνος",
+    "ἔθος",
+    "ἔθω",
+    "ἔκγονος",
+    "ἔλεγος",
+    "ἔμμετρος",
+    "ἔμπειρος",
+    "ἔμπροσθεν",
+    "ἔμφρων",
+    "ἔμψυχος",
+    "ἔνθα",
+    "ἔνιοι",
+    "ἔννοια",
+    "ἔντιμος",
+    "ἔξειμι2",
+    "ἔξεστι",
+    "ἔξοδος2",
+    "ἔξω",
+    "ἔξωθεν",
+    "ἔπειμι1",
+    "ἔργω1",
+    "ἔρομαι",
+    "ἔρως",
+    "ἔσθʼ",
+    "ἔτʼ",
+    "ἔτος",
+    "ἔχθρα",
+    "ἕκτωρ",
+    "ἕλκω",
+    "ἕνος",
+    "ἕξ",
+    "ἕξις",
+    "ἕπομαι",
+    "ἕωθεν",
+    "ἕωσπερ",
+    "Ἑλλήνων",
+    "ἠρέμα",
+    "ἡγέομαι",
+    "ἡγεμών",
+    "ἡδονά",
+    "ἡλικία",
+    "ἡλιόω",
+    "ἡμέτερος",
+    "ἡσσάομαι",
+    "ἡσυχία",
+    "ἡττάω",
+    "ἥδομαι",
+    "ἥκιστος",
+    "ἥλιος",
+    "ἥμισυς",
+    "ἥρως",
+    "ἦθος",
+    "Ἡσίοδος",
+    "ἰατρικός",
+    "ἰατρός",
+    "ἰδέα",
+    "ἰδιωτικός",
+    "ἰδιώτης",
+    "ἰσχυρός",
+    "ἰσχύς",
+    "ἰσότης",
+    "ἰχθύς",
+    "ἱέρεια",
+    "ἱδρύω",
+    "ἱερεύς",
+    "ἱερός",
+    "ἱκανόω",
+    "ἱμάτιον",
+    "ἱππικός",
+    "ἴδιος",
+    "ἴλαος",
+    "ἴσχω",
+    "ἴχνος",
+    "ἵημι",
+    "ὀδύρομαι",
+    "ὀκνέω",
+    "ὀκτώ",
+    "ὀλιγωρέω",
+    "ὀμματόω",
+    "ὀνειδίζω",
+    "ὀξέως",
+    "ὀξύς2",
+    "ὀργή",
+    "ὀργίζω",
+    "ὀρθότης",
+    "ὀρθόω",
+    "ὀφθαλμός",
+    "ὁδός1",
+    "ὁδόω",
+    "ὁμιλέω",
+    "ὁμιλία",
+    "ὁμοιότης",
+    "ὁμολογία",
+    "ὁμώνυμος",
+    "ὁπωσοῦν",
+    "ὁπόθεν",
+    "ὁπόσος",
+    "ὁπότε",
+    "ὁπότερος",
+    "ὁρίζω",
+    "ὁρατός",
+    "ὁρμάω",
+    "ὁρμή",
+    "ὄγκος1",
+    "ὄμμα",
+    "ὄναρ",
+    "ὄνειδος",
+    "ὄνος",
+    "ὄργανον",
+    "ὄργανος",
+    "ὄχλος",
+    "ὄψις",
+    "ὅθεν",
+    "ὅπη",
+    "ὅπλον",
+    "ὅποι",
+    "ὅπου",
+    "ὅρος",
+    "ὅσιος",
+    "Ὀδυσσέα",
+    "ὑβριστής",
+    "ὑγίεια",
+    "ὑγιής",
+    "ὑγιεινός",
+    "ὑγρός",
+    "ὑμέτερος",
+    "ὑμνέω",
+    "ὑμός",
+    "ὑπέχω",
+    "ὑπείκω",
+    "ὑπερέχω",
+    "ὑπερβάλλω",
+    "ὑπηρετέω",
+    "ὑποκριτής",
+    "ὑπολαμβάνω",
+    "ὑπολείπω",
+    "ὑπομένω",
+    "ὑποτίθημι",
+    "ὑπόδημα",
+    "ὑπόθεσις",
+    "ὑπόκειμαι",
+    "ὑφʼ",
+    "ὕβρις",
+    "ὕδωρ",
+    "ὕπνον",
+    "ὕστατος",
+    "ὕστερος",
+    "ὠφέλεια",
+    "ὠφέλιμος",
+    "ὠφελέω",
+    "ὥρα",
+    "ὥστʼ",
+    "ὧδʼ",
+    "ὧδε",
+    "ᾗπερ",
+    "ῥέω",
+    "ῥήτωρ",
+    "ῥίζα",
+    "ῥαίω",
+    "ῥεῦμα",
+    "ῥητέος",
+    "ῥυθμός",
+    "ῥῆμα"
+  ],
+  "doc_keys": [
+    "aristotle_metaphysics_chunk_000",
+    "aristotle_metaphysics_chunk_001",
+    "aristotle_metaphysics_chunk_002",
+    "aristotle_metaphysics_chunk_003",
+    "aristotle_metaphysics_chunk_004",
+    "aristotle_metaphysics_chunk_005",
+    "aristotle_metaphysics_chunk_006",
+    "aristotle_metaphysics_chunk_007",
+    "aristotle_metaphysics_chunk_008",
+    "aristotle_metaphysics_chunk_009",
+    "aristotle_metaphysics_chunk_010",
+    "aristotle_metaphysics_chunk_011",
+    "aristotle_metaphysics_chunk_012",
+    "aristotle_metaphysics_chunk_013",
+    "aristotle_metaphysics_chunk_014",
+    "aristotle_metaphysics_chunk_015",
+    "aristotle_metaphysics_chunk_016",
+    "aristotle_metaphysics_chunk_017",
+    "aristotle_metaphysics_chunk_018",
+    "aristotle_metaphysics_chunk_019",
+    "aristotle_metaphysics_chunk_020",
+    "aristotle_metaphysics_chunk_021",
+    "aristotle_metaphysics_chunk_022",
+    "aristotle_metaphysics_chunk_023",
+    "aristotle_metaphysics_chunk_024",
+    "aristotle_metaphysics_chunk_025",
+    "aristotle_metaphysics_chunk_026",
+    "aristotle_metaphysics_chunk_027",
+    "aristotle_metaphysics_chunk_028",
+    "aristotle_metaphysics_chunk_029",
+    "aristotle_metaphysics_chunk_030",
+    "aristotle_metaphysics_chunk_031",
+    "aristotle_metaphysics_chunk_032",
+    "aristotle_metaphysics_chunk_033",
+    "aristotle_metaphysics_chunk_034",
+    "aristotle_metaphysics_chunk_035",
+    "aristotle_metaphysics_chunk_036",
+    "aristotle_metaphysics_chunk_037",
+    "aristotle_metaphysics_chunk_038",
+    "aristotle_metaphysics_chunk_039",
+    "aristotle_metaphysics_chunk_040",
+    "aristotle_metaphysics_chunk_041",
+    "aristotle_metaphysics_chunk_042",
+    "aristotle_metaphysics_chunk_043",
+    "aristotle_metaphysics_chunk_044",
+    "aristotle_metaphysics_chunk_045",
+    "aristotle_metaphysics_chunk_046",
+    "aristotle_metaphysics_chunk_047",
+    "aristotle_metaphysics_chunk_048",
+    "aristotle_metaphysics_chunk_049",
+    "aristotle_metaphysics_chunk_050",
+    "aristotle_metaphysics_chunk_051",
+    "aristotle_metaphysics_chunk_052",
+    "aristotle_metaphysics_chunk_053",
+    "aristotle_metaphysics_chunk_054",
+    "aristotle_metaphysics_chunk_055",
+    "aristotle_metaphysics_chunk_056",
+    "aristotle_metaphysics_chunk_057",
+    "aristotle_metaphysics_chunk_058",
+    "aristotle_metaphysics_chunk_059",
+    "aristotle_metaphysics_chunk_060",
+    "aristotle_metaphysics_chunk_061",
+    "aristotle_metaphysics_chunk_062",
+    "aristotle_metaphysics_chunk_063",
+    "aristotle_metaphysics_chunk_064",
+    "aristotle_metaphysics_chunk_065",
+    "aristotle_metaphysics_chunk_066",
+    "aristotle_metaphysics_chunk_067",
+    "aristotle_metaphysics_chunk_068",
+    "aristotle_metaphysics_chunk_069",
+    "aristotle_metaphysics_chunk_070",
+    "aristotle_metaphysics_chunk_071",
+    "aristotle_metaphysics_chunk_072",
+    "aristotle_metaphysics_chunk_073",
+    "aristotle_metaphysics_chunk_074",
+    "aristotle_metaphysics_chunk_075",
+    "aristotle_metaphysics_chunk_076",
+    "aristotle_metaphysics_chunk_077",
+    "aristotle_metaphysics_chunk_078",
+    "aristotle_metaphysics_chunk_079",
+    "aristotle_metaphysics_chunk_080",
+    "aristotle_metaphysics_chunk_081",
+    "aristotle_metaphysics_chunk_082",
+    "aristotle_metaphysics_chunk_083",
+    "aristotle_metaphysics_chunk_084",
+    "aristotle_metaphysics_chunk_085",
+    "aristotle_metaphysics_chunk_086",
+    "aristotle_metaphysics_chunk_087",
+    "aristotle_metaphysics_chunk_088",
+    "aristotle_metaphysics_chunk_089",
+    "aristotle_metaphysics_chunk_090",
+    "aristotle_metaphysics_chunk_091",
+    "aristotle_metaphysics_chunk_092",
+    "aristotle_metaphysics_chunk_093",
+    "aristotle_metaphysics_chunk_094",
+    "aristotle_metaphysics_chunk_095",
+    "aristotle_metaphysics_chunk_096",
+    "aristotle_metaphysics_chunk_097",
+    "aristotle_metaphysics_chunk_098",
+    "aristotle_metaphysics_chunk_099",
+    "aristotle_metaphysics_chunk_100",
+    "aristotle_metaphysics_chunk_101",
+    "aristotle_metaphysics_chunk_102",
+    "aristotle_metaphysics_chunk_103",
+    "aristotle_metaphysics_chunk_104",
+    "aristotle_metaphysics_chunk_105",
+    "aristotle_metaphysics_chunk_106",
+    "aristotle_metaphysics_chunk_107",
+    "aristotle_metaphysics_chunk_108",
+    "aristotle_metaphysics_chunk_109",
+    "aristotle_metaphysics_chunk_110",
+    "aristotle_metaphysics_chunk_111",
+    "aristotle_metaphysics_chunk_112",
+    "aristotle_metaphysics_chunk_113",
+    "aristotle_metaphysics_chunk_114",
+    "aristotle_metaphysics_chunk_115",
+    "aristotle_metaphysics_chunk_116",
+    "aristotle_metaphysics_chunk_117",
+    "aristotle_metaphysics_chunk_118",
+    "aristotle_metaphysics_chunk_119",
+    "aristotle_metaphysics_chunk_120",
+    "aristotle_metaphysics_chunk_121",
+    "aristotle_metaphysics_chunk_122",
+    "aristotle_metaphysics_chunk_123",
+    "aristotle_metaphysics_chunk_124",
+    "aristotle_metaphysics_chunk_125",
+    "aristotle_metaphysics_chunk_126",
+    "aristotle_metaphysics_chunk_127",
+    "aristotle_metaphysics_chunk_128",
+    "aristotle_metaphysics_chunk_129",
+    "aristotle_metaphysics_chunk_130",
+    "aristotle_metaphysics_chunk_131",
+    "aristotle_metaphysics_chunk_132",
+    "aristotle_metaphysics_chunk_133",
+    "aristotle_metaphysics_chunk_134",
+    "aristotle_metaphysics_chunk_135",
+    "aristotle_metaphysics_chunk_136",
+    "aristotle_metaphysics_chunk_137",
+    "aristotle_metaphysics_chunk_138",
+    "aristotle_metaphysics_chunk_139",
+    "aristotle_metaphysics_chunk_140",
+    "aristotle_metaphysics_chunk_141",
+    "aristotle_metaphysics_chunk_142",
+    "aristotle_metaphysics_chunk_143",
+    "aristotle_metaphysics_chunk_144",
+    "aristotle_metaphysics_chunk_145",
+    "aristotle_metaphysics_chunk_146",
+    "aristotle_metaphysics_chunk_147",
+    "aristotle_metaphysics_chunk_148",
+    "aristotle_metaphysics_chunk_149",
+    "aristotle_metaphysics_chunk_150",
+    "aristotle_metaphysics_chunk_151",
+    "aristotle_metaphysics_chunk_152",
+    "aristotle_metaphysics_chunk_153",
+    "aristotle_metaphysics_chunk_154",
+    "aristotle_metaphysics_chunk_155",
+    "aristotle_metaphysics_chunk_156",
+    "aristotle_metaphysics_chunk_157",
+    "aristotle_metaphysics_chunk_158",
+    "aristotle_metaphysics_chunk_159",
+    "aristotle_metaphysics_chunk_160",
+    "aristotle_metaphysics_chunk_161",
+    "aristotle_metaphysics_chunk_162",
+    "aristotle_metaphysics_chunk_163",
+    "aristotle_metaphysics_chunk_164",
+    "aristotle_metaphysics_chunk_165",
+    "aristotle_metaphysics_chunk_166",
+    "aristotle_metaphysics_chunk_167",
+    "aristotle_metaphysics_chunk_168",
+    "aristotle_metaphysics_chunk_169",
+    "aristotle_metaphysics_chunk_170",
+    "aristotle_metaphysics_chunk_171",
+    "aristotle_metaphysics_chunk_172",
+    "aristotle_metaphysics_chunk_173",
+    "aristotle_metaphysics_chunk_174",
+    "aristotle_metaphysics_chunk_175",
+    "aristotle_metaphysics_chunk_176",
+    "aristotle_metaphysics_chunk_177",
+    "aristotle_metaphysics_chunk_178",
+    "aristotle_metaphysics_chunk_179",
+    "aristotle_metaphysics_chunk_180",
+    "aristotle_metaphysics_chunk_181",
+    "aristotle_metaphysics_chunk_182",
+    "aristotle_metaphysics_chunk_183",
+    "aristotle_metaphysics_chunk_184",
+    "aristotle_metaphysics_chunk_185",
+    "aristotle_metaphysics_chunk_186",
+    "aristotle_metaphysics_chunk_187",
+    "aristotle_metaphysics_chunk_188",
+    "aristotle_metaphysics_chunk_189",
+    "aristotle_metaphysics_chunk_190",
+    "aristotle_metaphysics_chunk_191",
+    "aristotle_metaphysics_chunk_192",
+    "aristotle_metaphysics_chunk_193",
+    "aristotle_metaphysics_chunk_194",
+    "aristotle_metaphysics_chunk_195",
+    "aristotle_metaphysics_chunk_196",
+    "aristotle_metaphysics_chunk_197",
+    "aristotle_metaphysics_chunk_198",
+    "aristotle_metaphysics_chunk_199",
+    "aristotle_metaphysics_chunk_200",
+    "aristotle_metaphysics_chunk_201",
+    "aristotle_metaphysics_chunk_202",
+    "aristotle_metaphysics_chunk_203",
+    "aristotle_metaphysics_chunk_204",
+    "aristotle_metaphysics_chunk_205",
+    "aristotle_metaphysics_chunk_206",
+    "aristotle_metaphysics_chunk_207",
+    "aristotle_metaphysics_chunk_208",
+    "aristotle_metaphysics_chunk_209",
+    "aristotle_metaphysics_chunk_210",
+    "aristotle_metaphysics_chunk_211",
+    "aristotle_metaphysics_chunk_212",
+    "aristotle_metaphysics_chunk_213",
+    "aristotle_metaphysics_chunk_214",
+    "aristotle_metaphysics_chunk_215",
+    "aristotle_metaphysics_chunk_216",
+    "aristotle_metaphysics_chunk_217",
+    "aristotle_metaphysics_chunk_218",
+    "aristotle_metaphysics_chunk_219",
+    "aristotle_metaphysics_chunk_220",
+    "aristotle_metaphysics_chunk_221",
+    "aristotle_metaphysics_chunk_222",
+    "aristotle_metaphysics_chunk_223",
+    "aristotle_metaphysics_chunk_224",
+    "aristotle_metaphysics_chunk_225",
+    "aristotle_metaphysics_chunk_226",
+    "aristotle_metaphysics_chunk_227",
+    "aristotle_metaphysics_chunk_228",
+    "aristotle_metaphysics_chunk_229",
+    "aristotle_metaphysics_chunk_230",
+    "aristotle_metaphysics_chunk_231",
+    "aristotle_metaphysics_chunk_232",
+    "aristotle_metaphysics_chunk_233",
+    "aristotle_metaphysics_chunk_234",
+    "aristotle_metaphysics_chunk_235",
+    "aristotle_metaphysics_chunk_236",
+    "aristotle_metaphysics_chunk_237",
+    "aristotle_metaphysics_chunk_238",
+    "aristotle_metaphysics_chunk_239",
+    "aristotle_metaphysics_chunk_240",
+    "aristotle_metaphysics_chunk_241",
+    "aristotle_metaphysics_chunk_242",
+    "aristotle_metaphysics_chunk_243",
+    "aristotle_metaphysics_chunk_244",
+    "aristotle_metaphysics_chunk_245",
+    "aristotle_metaphysics_chunk_246",
+    "aristotle_metaphysics_chunk_247",
+    "aristotle_metaphysics_chunk_248",
+    "aristotle_metaphysics_chunk_249",
+    "aristotle_metaphysics_chunk_250",
+    "aristotle_metaphysics_chunk_251",
+    "aristotle_nicomachean_ethics_chunk_000",
+    "aristotle_nicomachean_ethics_chunk_001",
+    "aristotle_nicomachean_ethics_chunk_002",
+    "aristotle_nicomachean_ethics_chunk_003",
+    "aristotle_nicomachean_ethics_chunk_004",
+    "aristotle_nicomachean_ethics_chunk_005",
+    "aristotle_nicomachean_ethics_chunk_006",
+    "aristotle_nicomachean_ethics_chunk_007",
+    "aristotle_nicomachean_ethics_chunk_008",
+    "aristotle_nicomachean_ethics_chunk_009",
+    "aristotle_nicomachean_ethics_chunk_010",
+    "aristotle_nicomachean_ethics_chunk_011",
+    "aristotle_nicomachean_ethics_chunk_012",
+    "aristotle_nicomachean_ethics_chunk_013",
+    "aristotle_nicomachean_ethics_chunk_014",
+    "aristotle_nicomachean_ethics_chunk_015",
+    "aristotle_nicomachean_ethics_chunk_016",
+    "aristotle_nicomachean_ethics_chunk_017",
+    "aristotle_nicomachean_ethics_chunk_018",
+    "aristotle_nicomachean_ethics_chunk_019",
+    "aristotle_nicomachean_ethics_chunk_020",
+    "aristotle_nicomachean_ethics_chunk_021",
+    "aristotle_nicomachean_ethics_chunk_022",
+    "aristotle_nicomachean_ethics_chunk_023",
+    "aristotle_nicomachean_ethics_chunk_024",
+    "aristotle_nicomachean_ethics_chunk_025",
+    "aristotle_nicomachean_ethics_chunk_026",
+    "aristotle_nicomachean_ethics_chunk_027",
+    "aristotle_nicomachean_ethics_chunk_028",
+    "aristotle_nicomachean_ethics_chunk_029",
+    "aristotle_nicomachean_ethics_chunk_030",
+    "aristotle_nicomachean_ethics_chunk_031",
+    "aristotle_nicomachean_ethics_chunk_032",
+    "aristotle_nicomachean_ethics_chunk_033",
+    "aristotle_nicomachean_ethics_chunk_034",
+    "aristotle_nicomachean_ethics_chunk_035",
+    "aristotle_nicomachean_ethics_chunk_036",
+    "aristotle_nicomachean_ethics_chunk_037",
+    "aristotle_nicomachean_ethics_chunk_038",
+    "aristotle_nicomachean_ethics_chunk_039",
+    "aristotle_nicomachean_ethics_chunk_040",
+    "aristotle_nicomachean_ethics_chunk_041",
+    "aristotle_nicomachean_ethics_chunk_042",
+    "aristotle_nicomachean_ethics_chunk_043",
+    "aristotle_nicomachean_ethics_chunk_044",
+    "aristotle_nicomachean_ethics_chunk_045",
+    "aristotle_nicomachean_ethics_chunk_046",
+    "aristotle_nicomachean_ethics_chunk_047",
+    "aristotle_nicomachean_ethics_chunk_048",
+    "aristotle_nicomachean_ethics_chunk_049",
+    "aristotle_nicomachean_ethics_chunk_050",
+    "aristotle_nicomachean_ethics_chunk_051",
+    "aristotle_nicomachean_ethics_chunk_052",
+    "aristotle_nicomachean_ethics_chunk_053",
+    "aristotle_nicomachean_ethics_chunk_054",
+    "aristotle_nicomachean_ethics_chunk_055",
+    "aristotle_nicomachean_ethics_chunk_056",
+    "aristotle_nicomachean_ethics_chunk_057",
+    "aristotle_nicomachean_ethics_chunk_058",
+    "aristotle_nicomachean_ethics_chunk_059",
+    "aristotle_nicomachean_ethics_chunk_060",
+    "aristotle_nicomachean_ethics_chunk_061",
+    "aristotle_nicomachean_ethics_chunk_062",
+    "aristotle_nicomachean_ethics_chunk_063",
+    "aristotle_nicomachean_ethics_chunk_064",
+    "aristotle_nicomachean_ethics_chunk_065",
+    "aristotle_nicomachean_ethics_chunk_066",
+    "aristotle_nicomachean_ethics_chunk_067",
+    "aristotle_nicomachean_ethics_chunk_068",
+    "aristotle_nicomachean_ethics_chunk_069",
+    "aristotle_nicomachean_ethics_chunk_070",
+    "aristotle_nicomachean_ethics_chunk_071",
+    "aristotle_nicomachean_ethics_chunk_072",
+    "aristotle_nicomachean_ethics_chunk_073",
+    "aristotle_nicomachean_ethics_chunk_074",
+    "aristotle_nicomachean_ethics_chunk_075",
+    "aristotle_nicomachean_ethics_chunk_076",
+    "aristotle_nicomachean_ethics_chunk_077",
+    "aristotle_nicomachean_ethics_chunk_078",
+    "aristotle_nicomachean_ethics_chunk_079",
+    "aristotle_nicomachean_ethics_chunk_080",
+    "aristotle_nicomachean_ethics_chunk_081",
+    "aristotle_nicomachean_ethics_chunk_082",
+    "aristotle_nicomachean_ethics_chunk_083",
+    "aristotle_nicomachean_ethics_chunk_084",
+    "aristotle_nicomachean_ethics_chunk_085",
+    "aristotle_nicomachean_ethics_chunk_086",
+    "aristotle_nicomachean_ethics_chunk_087",
+    "aristotle_nicomachean_ethics_chunk_088",
+    "aristotle_nicomachean_ethics_chunk_089",
+    "aristotle_nicomachean_ethics_chunk_090",
+    "aristotle_nicomachean_ethics_chunk_091",
+    "aristotle_nicomachean_ethics_chunk_092",
+    "aristotle_nicomachean_ethics_chunk_093",
+    "aristotle_nicomachean_ethics_chunk_094",
+    "aristotle_nicomachean_ethics_chunk_095",
+    "aristotle_nicomachean_ethics_chunk_096",
+    "aristotle_nicomachean_ethics_chunk_097",
+    "aristotle_nicomachean_ethics_chunk_098",
+    "aristotle_nicomachean_ethics_chunk_099",
+    "aristotle_nicomachean_ethics_chunk_100",
+    "aristotle_nicomachean_ethics_chunk_101",
+    "aristotle_nicomachean_ethics_chunk_102",
+    "aristotle_nicomachean_ethics_chunk_103",
+    "aristotle_nicomachean_ethics_chunk_104",
+    "aristotle_nicomachean_ethics_chunk_105",
+    "aristotle_nicomachean_ethics_chunk_106",
+    "aristotle_nicomachean_ethics_chunk_107",
+    "aristotle_nicomachean_ethics_chunk_108",
+    "aristotle_nicomachean_ethics_chunk_109",
+    "aristotle_nicomachean_ethics_chunk_110",
+    "aristotle_nicomachean_ethics_chunk_111",
+    "aristotle_nicomachean_ethics_chunk_112",
+    "aristotle_nicomachean_ethics_chunk_113",
+    "aristotle_nicomachean_ethics_chunk_114",
+    "aristotle_nicomachean_ethics_chunk_115",
+    "aristotle_nicomachean_ethics_chunk_116",
+    "aristotle_nicomachean_ethics_chunk_117",
+    "aristotle_nicomachean_ethics_chunk_118",
+    "aristotle_nicomachean_ethics_chunk_119",
+    "aristotle_nicomachean_ethics_chunk_120",
+    "aristotle_nicomachean_ethics_chunk_121",
+    "aristotle_nicomachean_ethics_chunk_122",
+    "aristotle_nicomachean_ethics_chunk_123",
+    "aristotle_nicomachean_ethics_chunk_124",
+    "aristotle_nicomachean_ethics_chunk_125",
+    "aristotle_nicomachean_ethics_chunk_126",
+    "aristotle_nicomachean_ethics_chunk_127",
+    "aristotle_nicomachean_ethics_chunk_128",
+    "aristotle_nicomachean_ethics_chunk_129",
+    "aristotle_nicomachean_ethics_chunk_130",
+    "aristotle_nicomachean_ethics_chunk_131",
+    "aristotle_nicomachean_ethics_chunk_132",
+    "aristotle_nicomachean_ethics_chunk_133",
+    "aristotle_nicomachean_ethics_chunk_134",
+    "aristotle_nicomachean_ethics_chunk_135",
+    "aristotle_nicomachean_ethics_chunk_136",
+    "aristotle_nicomachean_ethics_chunk_137",
+    "aristotle_nicomachean_ethics_chunk_138",
+    "aristotle_nicomachean_ethics_chunk_139",
+    "aristotle_nicomachean_ethics_chunk_140",
+    "aristotle_nicomachean_ethics_chunk_141",
+    "aristotle_nicomachean_ethics_chunk_142",
+    "aristotle_nicomachean_ethics_chunk_143",
+    "aristotle_nicomachean_ethics_chunk_144",
+    "aristotle_nicomachean_ethics_chunk_145",
+    "aristotle_nicomachean_ethics_chunk_146",
+    "aristotle_nicomachean_ethics_chunk_147",
+    "aristotle_nicomachean_ethics_chunk_148",
+    "aristotle_nicomachean_ethics_chunk_149",
+    "aristotle_nicomachean_ethics_chunk_150",
+    "aristotle_nicomachean_ethics_chunk_151",
+    "aristotle_nicomachean_ethics_chunk_152",
+    "aristotle_nicomachean_ethics_chunk_153",
+    "aristotle_nicomachean_ethics_chunk_154",
+    "aristotle_nicomachean_ethics_chunk_155",
+    "aristotle_nicomachean_ethics_chunk_156",
+    "aristotle_nicomachean_ethics_chunk_157",
+    "aristotle_nicomachean_ethics_chunk_158",
+    "aristotle_nicomachean_ethics_chunk_159",
+    "aristotle_nicomachean_ethics_chunk_160",
+    "aristotle_nicomachean_ethics_chunk_161",
+    "aristotle_nicomachean_ethics_chunk_162",
+    "aristotle_nicomachean_ethics_chunk_163",
+    "aristotle_nicomachean_ethics_chunk_164",
+    "aristotle_nicomachean_ethics_chunk_165",
+    "aristotle_nicomachean_ethics_chunk_166",
+    "aristotle_nicomachean_ethics_chunk_167",
+    "aristotle_nicomachean_ethics_chunk_168",
+    "aristotle_nicomachean_ethics_chunk_169",
+    "aristotle_nicomachean_ethics_chunk_170",
+    "aristotle_nicomachean_ethics_chunk_171",
+    "aristotle_nicomachean_ethics_chunk_172",
+    "aristotle_nicomachean_ethics_chunk_173",
+    "aristotle_nicomachean_ethics_chunk_174",
+    "aristotle_nicomachean_ethics_chunk_175",
+    "aristotle_nicomachean_ethics_chunk_176",
+    "aristotle_nicomachean_ethics_chunk_177",
+    "aristotle_nicomachean_ethics_chunk_178",
+    "aristotle_nicomachean_ethics_chunk_179",
+    "aristotle_nicomachean_ethics_chunk_180",
+    "aristotle_poetics_chunk_000",
+    "aristotle_poetics_chunk_001",
+    "aristotle_poetics_chunk_002",
+    "aristotle_poetics_chunk_003",
+    "aristotle_poetics_chunk_004",
+    "aristotle_poetics_chunk_005",
+    "aristotle_poetics_chunk_006",
+    "aristotle_poetics_chunk_007",
+    "aristotle_poetics_chunk_008",
+    "aristotle_poetics_chunk_009",
+    "aristotle_poetics_chunk_010",
+    "aristotle_poetics_chunk_011",
+    "aristotle_poetics_chunk_012",
+    "aristotle_poetics_chunk_013",
+    "aristotle_poetics_chunk_014",
+    "aristotle_poetics_chunk_015",
+    "aristotle_poetics_chunk_016",
+    "aristotle_poetics_chunk_017",
+    "aristotle_poetics_chunk_018",
+    "aristotle_poetics_chunk_019",
+    "aristotle_poetics_chunk_020",
+    "aristotle_poetics_chunk_021",
+    "aristotle_poetics_chunk_022",
+    "aristotle_poetics_chunk_023",
+    "aristotle_poetics_chunk_024",
+    "aristotle_poetics_chunk_025",
+    "aristotle_poetics_chunk_026",
+    "aristotle_poetics_chunk_027",
+    "aristotle_poetics_chunk_028",
+    "aristotle_poetics_chunk_029",
+    "aristotle_poetics_chunk_030",
+    "aristotle_poetics_chunk_031",
+    "plato_apology_chunk_000",
+    "plato_apology_chunk_001",
+    "plato_apology_chunk_002",
+    "plato_apology_chunk_003",
+    "plato_apology_chunk_004",
+    "plato_apology_chunk_005",
+    "plato_apology_chunk_006",
+    "plato_apology_chunk_007",
+    "plato_apology_chunk_008",
+    "plato_apology_chunk_009",
+    "plato_apology_chunk_010",
+    "plato_apology_chunk_011",
+    "plato_apology_chunk_012",
+    "plato_apology_chunk_013",
+    "plato_apology_chunk_014",
+    "plato_apology_chunk_015",
+    "plato_apology_chunk_016",
+    "plato_apology_chunk_017",
+    "plato_apology_chunk_018",
+    "plato_apology_chunk_019",
+    "plato_apology_chunk_020",
+    "plato_apology_chunk_021",
+    "plato_apology_chunk_022",
+    "plato_apology_chunk_023",
+    "plato_apology_chunk_024",
+    "plato_apology_chunk_025",
+    "plato_apology_chunk_026",
+    "plato_apology_chunk_027",
+    "plato_ion_chunk_000",
+    "plato_ion_chunk_001",
+    "plato_ion_chunk_002",
+    "plato_ion_chunk_003",
+    "plato_ion_chunk_004",
+    "plato_ion_chunk_005",
+    "plato_ion_chunk_006",
+    "plato_ion_chunk_007",
+    "plato_ion_chunk_008",
+    "plato_ion_chunk_009",
+    "plato_ion_chunk_010",
+    "plato_ion_chunk_011",
+    "plato_meno_chunk_000",
+    "plato_meno_chunk_001",
+    "plato_meno_chunk_002",
+    "plato_meno_chunk_003",
+    "plato_meno_chunk_004",
+    "plato_meno_chunk_005",
+    "plato_meno_chunk_006",
+    "plato_meno_chunk_007",
+    "plato_meno_chunk_008",
+    "plato_meno_chunk_009",
+    "plato_meno_chunk_010",
+    "plato_meno_chunk_011",
+    "plato_meno_chunk_012",
+    "plato_meno_chunk_013",
+    "plato_meno_chunk_014",
+    "plato_meno_chunk_015",
+    "plato_meno_chunk_016",
+    "plato_meno_chunk_017",
+    "plato_meno_chunk_018",
+    "plato_meno_chunk_019",
+    "plato_meno_chunk_020",
+    "plato_meno_chunk_021",
+    "plato_meno_chunk_022",
+    "plato_meno_chunk_023",
+    "plato_meno_chunk_024",
+    "plato_meno_chunk_025",
+    "plato_meno_chunk_026",
+    "plato_meno_chunk_027",
+    "plato_meno_chunk_028",
+    "plato_meno_chunk_029",
+    "plato_meno_chunk_030",
+    "plato_phaedo_chunk_000",
+    "plato_phaedo_chunk_001",
+    "plato_phaedo_chunk_002",
+    "plato_phaedo_chunk_003",
+    "plato_phaedo_chunk_004",
+    "plato_phaedo_chunk_005",
+    "plato_phaedo_chunk_006",
+    "plato_phaedo_chunk_007",
+    "plato_phaedo_chunk_008",
+    "plato_phaedo_chunk_009",
+    "plato_phaedo_chunk_010",
+    "plato_phaedo_chunk_011",
+    "plato_phaedo_chunk_012",
+    "plato_phaedo_chunk_013",
+    "plato_phaedo_chunk_014",
+    "plato_phaedo_chunk_015",
+    "plato_phaedo_chunk_016",
+    "plato_phaedo_chunk_017",
+    "plato_phaedo_chunk_018",
+    "plato_phaedo_chunk_019",
+    "plato_phaedo_chunk_020",
+    "plato_phaedo_chunk_021",
+    "plato_phaedo_chunk_022",
+    "plato_phaedo_chunk_023",
+    "plato_phaedo_chunk_024",
+    "plato_phaedo_chunk_025",
+    "plato_phaedo_chunk_026",
+    "plato_phaedo_chunk_027",
+    "plato_phaedo_chunk_028",
+    "plato_phaedo_chunk_029",
+    "plato_phaedo_chunk_030",
+    "plato_phaedo_chunk_031",
+    "plato_phaedo_chunk_032",
+    "plato_phaedo_chunk_033",
+    "plato_phaedo_chunk_034",
+    "plato_phaedo_chunk_035",
+    "plato_phaedo_chunk_036",
+    "plato_phaedo_chunk_037",
+    "plato_phaedo_chunk_038",
+    "plato_phaedo_chunk_039",
+    "plato_phaedo_chunk_040",
+    "plato_phaedo_chunk_041",
+    "plato_phaedo_chunk_042",
+    "plato_phaedo_chunk_043",
+    "plato_phaedo_chunk_044",
+    "plato_phaedo_chunk_045",
+    "plato_phaedo_chunk_046",
+    "plato_phaedo_chunk_047",
+    "plato_phaedo_chunk_048",
+    "plato_phaedo_chunk_049",
+    "plato_phaedo_chunk_050",
+    "plato_phaedo_chunk_051",
+    "plato_phaedo_chunk_052",
+    "plato_phaedo_chunk_053",
+    "plato_phaedo_chunk_054",
+    "plato_phaedo_chunk_055",
+    "plato_phaedo_chunk_056",
+    "plato_phaedo_chunk_057",
+    "plato_phaedo_chunk_058",
+    "plato_phaedo_chunk_059",
+    "plato_phaedo_chunk_060",
+    "plato_phaedo_chunk_061",
+    "plato_phaedo_chunk_062",
+    "plato_phaedo_chunk_063",
+    "plato_phaedo_chunk_064",
+    "plato_phaedo_chunk_065",
+    "plato_phaedo_chunk_066",
+    "plato_phaedo_chunk_067",
+    "plato_phaedo_chunk_068",
+    "plato_phaedo_chunk_069",
+    "plato_phaedo_chunk_070",
+    "plato_phaedrus_chunk_000",
+    "plato_phaedrus_chunk_001",
+    "plato_phaedrus_chunk_002",
+    "plato_phaedrus_chunk_003",
+    "plato_phaedrus_chunk_004",
+    "plato_phaedrus_chunk_005",
+    "plato_phaedrus_chunk_006",
+    "plato_phaedrus_chunk_007",
+    "plato_phaedrus_chunk_008",
+    "plato_phaedrus_chunk_009",
+    "plato_phaedrus_chunk_010",
+    "plato_phaedrus_chunk_011",
+    "plato_phaedrus_chunk_012",
+    "plato_phaedrus_chunk_013",
+    "plato_phaedrus_chunk_014",
+    "plato_phaedrus_chunk_015",
+    "plato_phaedrus_chunk_016",
+    "plato_phaedrus_chunk_017",
+    "plato_phaedrus_chunk_018",
+    "plato_phaedrus_chunk_019",
+    "plato_phaedrus_chunk_020",
+    "plato_phaedrus_chunk_021",
+    "plato_phaedrus_chunk_022",
+    "plato_phaedrus_chunk_023",
+    "plato_phaedrus_chunk_024",
+    "plato_phaedrus_chunk_025",
+    "plato_phaedrus_chunk_026",
+    "plato_phaedrus_chunk_027",
+    "plato_phaedrus_chunk_028",
+    "plato_phaedrus_chunk_029",
+    "plato_phaedrus_chunk_030",
+    "plato_phaedrus_chunk_031",
+    "plato_phaedrus_chunk_032",
+    "plato_phaedrus_chunk_033",
+    "plato_phaedrus_chunk_034",
+    "plato_phaedrus_chunk_035",
+    "plato_phaedrus_chunk_036",
+    "plato_phaedrus_chunk_037",
+    "plato_phaedrus_chunk_038",
+    "plato_phaedrus_chunk_039",
+    "plato_phaedrus_chunk_040",
+    "plato_phaedrus_chunk_041",
+    "plato_phaedrus_chunk_042",
+    "plato_phaedrus_chunk_043",
+    "plato_phaedrus_chunk_044",
+    "plato_phaedrus_chunk_045",
+    "plato_phaedrus_chunk_046",
+    "plato_phaedrus_chunk_047",
+    "plato_phaedrus_chunk_048",
+    "plato_phaedrus_chunk_049",
+    "plato_phaedrus_chunk_050",
+    "plato_phaedrus_chunk_051",
+    "plato_phaedrus_chunk_052",
+    "plato_phaedrus_chunk_053",
+    "plato_republic_chunk_000",
+    "plato_republic_chunk_001",
+    "plato_republic_chunk_002",
+    "plato_republic_chunk_003",
+    "plato_republic_chunk_004",
+    "plato_republic_chunk_005",
+    "plato_republic_chunk_006",
+    "plato_republic_chunk_007",
+    "plato_republic_chunk_008",
+    "plato_republic_chunk_009",
+    "plato_republic_chunk_010",
+    "plato_republic_chunk_011",
+    "plato_republic_chunk_012",
+    "plato_republic_chunk_013",
+    "plato_republic_chunk_014",
+    "plato_republic_chunk_015",
+    "plato_republic_chunk_016",
+    "plato_republic_chunk_017",
+    "plato_republic_chunk_018",
+    "plato_republic_chunk_019",
+    "plato_republic_chunk_020",
+    "plato_republic_chunk_021",
+    "plato_republic_chunk_022",
+    "plato_republic_chunk_023",
+    "plato_republic_chunk_024",
+    "plato_republic_chunk_025",
+    "plato_republic_chunk_026",
+    "plato_republic_chunk_027",
+    "plato_republic_chunk_028",
+    "plato_republic_chunk_029",
+    "plato_republic_chunk_030",
+    "plato_republic_chunk_031",
+    "plato_republic_chunk_032",
+    "plato_republic_chunk_033",
+    "plato_republic_chunk_034",
+    "plato_republic_chunk_035",
+    "plato_republic_chunk_036",
+    "plato_republic_chunk_037",
+    "plato_republic_chunk_038",
+    "plato_republic_chunk_039",
+    "plato_republic_chunk_040",
+    "plato_republic_chunk_041",
+    "plato_republic_chunk_042",
+    "plato_republic_chunk_043",
+    "plato_republic_chunk_044",
+    "plato_republic_chunk_045",
+    "plato_republic_chunk_046",
+    "plato_republic_chunk_047",
+    "plato_republic_chunk_048",
+    "plato_republic_chunk_049",
+    "plato_republic_chunk_050",
+    "plato_republic_chunk_051",
+    "plato_republic_chunk_052",
+    "plato_republic_chunk_053",
+    "plato_republic_chunk_054",
+    "plato_republic_chunk_055",
+    "plato_republic_chunk_056",
+    "plato_republic_chunk_057",
+    "plato_republic_chunk_058",
+    "plato_republic_chunk_059",
+    "plato_republic_chunk_060",
+    "plato_republic_chunk_061",
+    "plato_republic_chunk_062",
+    "plato_republic_chunk_063",
+    "plato_republic_chunk_064",
+    "plato_republic_chunk_065",
+    "plato_republic_chunk_066",
+    "plato_republic_chunk_067",
+    "plato_republic_chunk_068",
+    "plato_republic_chunk_069",
+    "plato_republic_chunk_070",
+    "plato_republic_chunk_071",
+    "plato_republic_chunk_072",
+    "plato_republic_chunk_073",
+    "plato_republic_chunk_074",
+    "plato_republic_chunk_075",
+    "plato_republic_chunk_076",
+    "plato_republic_chunk_077",
+    "plato_republic_chunk_078",
+    "plato_republic_chunk_079",
+    "plato_republic_chunk_080",
+    "plato_republic_chunk_081",
+    "plato_republic_chunk_082",
+    "plato_republic_chunk_083",
+    "plato_republic_chunk_084",
+    "plato_republic_chunk_085",
+    "plato_republic_chunk_086",
+    "plato_republic_chunk_087",
+    "plato_republic_chunk_088",
+    "plato_republic_chunk_089",
+    "plato_republic_chunk_090",
+    "plato_republic_chunk_091",
+    "plato_republic_chunk_092",
+    "plato_republic_chunk_093",
+    "plato_republic_chunk_094",
+    "plato_republic_chunk_095",
+    "plato_republic_chunk_096",
+    "plato_republic_chunk_097",
+    "plato_republic_chunk_098",
+    "plato_republic_chunk_099",
+    "plato_republic_chunk_100",
+    "plato_republic_chunk_101",
+    "plato_republic_chunk_102",
+    "plato_republic_chunk_103",
+    "plato_republic_chunk_104",
+    "plato_republic_chunk_105",
+    "plato_republic_chunk_106",
+    "plato_republic_chunk_107",
+    "plato_republic_chunk_108",
+    "plato_republic_chunk_109",
+    "plato_republic_chunk_110",
+    "plato_republic_chunk_111",
+    "plato_republic_chunk_112",
+    "plato_republic_chunk_113",
+    "plato_republic_chunk_114",
+    "plato_republic_chunk_115",
+    "plato_republic_chunk_116",
+    "plato_republic_chunk_117",
+    "plato_republic_chunk_118",
+    "plato_republic_chunk_119",
+    "plato_republic_chunk_120",
+    "plato_republic_chunk_121",
+    "plato_republic_chunk_122",
+    "plato_republic_chunk_123",
+    "plato_republic_chunk_124",
+    "plato_republic_chunk_125",
+    "plato_republic_chunk_126",
+    "plato_republic_chunk_127",
+    "plato_republic_chunk_128",
+    "plato_republic_chunk_129",
+    "plato_republic_chunk_130",
+    "plato_republic_chunk_131",
+    "plato_republic_chunk_132",
+    "plato_republic_chunk_133",
+    "plato_republic_chunk_134",
+    "plato_republic_chunk_135",
+    "plato_republic_chunk_136",
+    "plato_republic_chunk_137",
+    "plato_republic_chunk_138",
+    "plato_republic_chunk_139",
+    "plato_republic_chunk_140",
+    "plato_republic_chunk_141",
+    "plato_republic_chunk_142",
+    "plato_republic_chunk_143",
+    "plato_republic_chunk_144",
+    "plato_republic_chunk_145",
+    "plato_republic_chunk_146",
+    "plato_republic_chunk_147",
+    "plato_republic_chunk_148",
+    "plato_republic_chunk_149",
+    "plato_republic_chunk_150",
+    "plato_republic_chunk_151",
+    "plato_republic_chunk_152",
+    "plato_republic_chunk_153",
+    "plato_republic_chunk_154",
+    "plato_republic_chunk_155",
+    "plato_republic_chunk_156",
+    "plato_republic_chunk_157",
+    "plato_republic_chunk_158",
+    "plato_republic_chunk_159",
+    "plato_republic_chunk_160",
+    "plato_republic_chunk_161",
+    "plato_republic_chunk_162",
+    "plato_republic_chunk_163",
+    "plato_republic_chunk_164",
+    "plato_republic_chunk_165",
+    "plato_republic_chunk_166",
+    "plato_republic_chunk_167",
+    "plato_republic_chunk_168",
+    "plato_republic_chunk_169",
+    "plato_republic_chunk_170",
+    "plato_republic_chunk_171",
+    "plato_republic_chunk_172",
+    "plato_republic_chunk_173",
+    "plato_republic_chunk_174",
+    "plato_republic_chunk_175",
+    "plato_republic_chunk_176",
+    "plato_republic_chunk_177",
+    "plato_republic_chunk_178",
+    "plato_republic_chunk_179",
+    "plato_republic_chunk_180",
+    "plato_republic_chunk_181",
+    "plato_republic_chunk_182",
+    "plato_republic_chunk_183",
+    "plato_republic_chunk_184",
+    "plato_republic_chunk_185",
+    "plato_republic_chunk_186",
+    "plato_republic_chunk_187",
+    "plato_republic_chunk_188",
+    "plato_republic_chunk_189",
+    "plato_republic_chunk_190",
+    "plato_republic_chunk_191",
+    "plato_republic_chunk_192",
+    "plato_republic_chunk_193",
+    "plato_republic_chunk_194",
+    "plato_republic_chunk_195",
+    "plato_republic_chunk_196",
+    "plato_republic_chunk_197",
+    "plato_republic_chunk_198",
+    "plato_republic_chunk_199",
+    "plato_republic_chunk_200",
+    "plato_republic_chunk_201",
+    "plato_republic_chunk_202",
+    "plato_republic_chunk_203",
+    "plato_republic_chunk_204",
+    "plato_republic_chunk_205",
+    "plato_republic_chunk_206",
+    "plato_republic_chunk_207",
+    "plato_republic_chunk_208",
+    "plato_republic_chunk_209",
+    "plato_republic_chunk_210",
+    "plato_republic_chunk_211",
+    "plato_republic_chunk_212",
+    "plato_republic_chunk_213",
+    "plato_republic_chunk_214",
+    "plato_republic_chunk_215",
+    "plato_republic_chunk_216",
+    "plato_republic_chunk_217",
+    "plato_republic_chunk_218",
+    "plato_republic_chunk_219",
+    "plato_republic_chunk_220",
+    "plato_republic_chunk_221",
+    "plato_republic_chunk_222",
+    "plato_republic_chunk_223",
+    "plato_republic_chunk_224",
+    "plato_republic_chunk_225",
+    "plato_republic_chunk_226",
+    "plato_republic_chunk_227",
+    "plato_republic_chunk_228",
+    "plato_republic_chunk_229",
+    "plato_republic_chunk_230",
+    "plato_republic_chunk_231",
+    "plato_republic_chunk_232",
+    "plato_republic_chunk_233",
+    "plato_republic_chunk_234",
+    "plato_republic_chunk_235",
+    "plato_republic_chunk_236",
+    "plato_republic_chunk_237",
+    "plato_republic_chunk_238",
+    "plato_republic_chunk_239",
+    "plato_republic_chunk_240",
+    "plato_republic_chunk_241",
+    "plato_republic_chunk_242",
+    "plato_republic_chunk_243",
+    "plato_republic_chunk_244",
+    "plato_republic_chunk_245",
+    "plato_republic_chunk_246",
+    "plato_republic_chunk_247",
+    "plato_republic_chunk_248",
+    "plato_republic_chunk_249",
+    "plato_republic_chunk_250",
+    "plato_republic_chunk_251",
+    "plato_republic_chunk_252",
+    "plato_republic_chunk_253",
+    "plato_republic_chunk_254",
+    "plato_republic_chunk_255",
+    "plato_republic_chunk_256",
+    "plato_republic_chunk_257",
+    "plato_republic_chunk_258",
+    "plato_republic_chunk_259",
+    "plato_republic_chunk_260",
+    "plato_republic_chunk_261",
+    "plato_republic_chunk_262",
+    "plato_republic_chunk_263",
+    "plato_republic_chunk_264",
+    "plato_republic_chunk_265",
+    "plato_republic_chunk_266",
+    "plato_republic_chunk_267",
+    "plato_republic_chunk_268",
+    "plato_republic_chunk_269",
+    "plato_republic_chunk_270",
+    "plato_republic_chunk_271",
+    "plato_republic_chunk_272",
+    "plato_republic_chunk_273",
+    "plato_republic_chunk_274",
+    "plato_republic_chunk_275",
+    "plato_republic_chunk_276",
+    "plato_republic_chunk_277",
+    "plato_republic_chunk_278",
+    "plato_republic_chunk_279",
+    "plato_republic_chunk_280",
+    "plato_republic_chunk_281",
+    "plato_republic_chunk_282",
+    "plato_republic_chunk_283",
+    "plato_republic_chunk_284",
+    "plato_sophist_chunk_000",
+    "plato_sophist_chunk_001",
+    "plato_sophist_chunk_002",
+    "plato_sophist_chunk_003",
+    "plato_sophist_chunk_004",
+    "plato_sophist_chunk_005",
+    "plato_sophist_chunk_006",
+    "plato_sophist_chunk_007",
+    "plato_sophist_chunk_008",
+    "plato_sophist_chunk_009",
+    "plato_sophist_chunk_010",
+    "plato_sophist_chunk_011",
+    "plato_sophist_chunk_012",
+    "plato_sophist_chunk_013",
+    "plato_sophist_chunk_014",
+    "plato_sophist_chunk_015",
+    "plato_sophist_chunk_016",
+    "plato_sophist_chunk_017",
+    "plato_sophist_chunk_018",
+    "plato_sophist_chunk_019",
+    "plato_sophist_chunk_020",
+    "plato_sophist_chunk_021",
+    "plato_sophist_chunk_022",
+    "plato_sophist_chunk_023",
+    "plato_sophist_chunk_024",
+    "plato_sophist_chunk_025",
+    "plato_sophist_chunk_026",
+    "plato_sophist_chunk_027",
+    "plato_sophist_chunk_028",
+    "plato_sophist_chunk_029",
+    "plato_sophist_chunk_030",
+    "plato_sophist_chunk_031",
+    "plato_sophist_chunk_032",
+    "plato_sophist_chunk_033",
+    "plato_sophist_chunk_034",
+    "plato_sophist_chunk_035",
+    "plato_sophist_chunk_036",
+    "plato_sophist_chunk_037",
+    "plato_sophist_chunk_038",
+    "plato_sophist_chunk_039",
+    "plato_sophist_chunk_040",
+    "plato_sophist_chunk_041",
+    "plato_sophist_chunk_042",
+    "plato_sophist_chunk_043",
+    "plato_sophist_chunk_044",
+    "plato_sophist_chunk_045",
+    "plato_sophist_chunk_046",
+    "plato_sophist_chunk_047",
+    "plato_sophist_chunk_048",
+    "plato_sophist_chunk_049",
+    "plato_sophist_chunk_050",
+    "plato_sophist_chunk_051",
+    "plato_sophist_chunk_052",
+    "plato_symposium_chunk_000",
+    "plato_symposium_chunk_001",
+    "plato_symposium_chunk_002",
+    "plato_symposium_chunk_003",
+    "plato_symposium_chunk_004",
+    "plato_symposium_chunk_005",
+    "plato_symposium_chunk_006",
+    "plato_symposium_chunk_007",
+    "plato_symposium_chunk_008",
+    "plato_symposium_chunk_009",
+    "plato_symposium_chunk_010",
+    "plato_symposium_chunk_011",
+    "plato_symposium_chunk_012",
+    "plato_symposium_chunk_013",
+    "plato_symposium_chunk_014",
+    "plato_symposium_chunk_015",
+    "plato_symposium_chunk_016",
+    "plato_symposium_chunk_017",
+    "plato_symposium_chunk_018",
+    "plato_symposium_chunk_019",
+    "plato_symposium_chunk_020",
+    "plato_symposium_chunk_021",
+    "plato_symposium_chunk_022",
+    "plato_symposium_chunk_023",
+    "plato_symposium_chunk_024",
+    "plato_symposium_chunk_025",
+    "plato_symposium_chunk_026",
+    "plato_symposium_chunk_027",
+    "plato_symposium_chunk_028",
+    "plato_symposium_chunk_029",
+    "plato_symposium_chunk_030",
+    "plato_symposium_chunk_031",
+    "plato_symposium_chunk_032",
+    "plato_symposium_chunk_033",
+    "plato_symposium_chunk_034",
+    "plato_symposium_chunk_035",
+    "plato_symposium_chunk_036",
+    "plato_symposium_chunk_037",
+    "plato_symposium_chunk_038",
+    "plato_symposium_chunk_039",
+    "plato_symposium_chunk_040",
+    "plato_symposium_chunk_041",
+    "plato_symposium_chunk_042",
+    "plato_symposium_chunk_043",
+    "plato_symposium_chunk_044",
+    "plato_symposium_chunk_045",
+    "plato_symposium_chunk_046",
+    "plato_symposium_chunk_047",
+    "plato_symposium_chunk_048",
+    "plato_symposium_chunk_049",
+    "plato_symposium_chunk_050",
+    "plato_symposium_chunk_051",
+    "plato_symposium_chunk_052",
+    "plato_symposium_chunk_053",
+    "plato_symposium_chunk_054",
+    "plato_symposium_chunk_055",
+    "plato_timaeus_chunk_000",
+    "plato_timaeus_chunk_001",
+    "plato_timaeus_chunk_002",
+    "plato_timaeus_chunk_003",
+    "plato_timaeus_chunk_004",
+    "plato_timaeus_chunk_005",
+    "plato_timaeus_chunk_006",
+    "plato_timaeus_chunk_007",
+    "plato_timaeus_chunk_008",
+    "plato_timaeus_chunk_009",
+    "plato_timaeus_chunk_010",
+    "plato_timaeus_chunk_011",
+    "plato_timaeus_chunk_012",
+    "plato_timaeus_chunk_013",
+    "plato_timaeus_chunk_014",
+    "plato_timaeus_chunk_015",
+    "plato_timaeus_chunk_016",
+    "plato_timaeus_chunk_017",
+    "plato_timaeus_chunk_018",
+    "plato_timaeus_chunk_019",
+    "plato_timaeus_chunk_020",
+    "plato_timaeus_chunk_021",
+    "plato_timaeus_chunk_022",
+    "plato_timaeus_chunk_023",
+    "plato_timaeus_chunk_024",
+    "plato_timaeus_chunk_025",
+    "plato_timaeus_chunk_026",
+    "plato_timaeus_chunk_027",
+    "plato_timaeus_chunk_028",
+    "plato_timaeus_chunk_029",
+    "plato_timaeus_chunk_030",
+    "plato_timaeus_chunk_031",
+    "plato_timaeus_chunk_032",
+    "plato_timaeus_chunk_033",
+    "plato_timaeus_chunk_034",
+    "plato_timaeus_chunk_035",
+    "plato_timaeus_chunk_036",
+    "plato_timaeus_chunk_037",
+    "plato_timaeus_chunk_038",
+    "plato_timaeus_chunk_039",
+    "plato_timaeus_chunk_040",
+    "plato_timaeus_chunk_041",
+    "plato_timaeus_chunk_042",
+    "plato_timaeus_chunk_043",
+    "plato_timaeus_chunk_044",
+    "plato_timaeus_chunk_045",
+    "plato_timaeus_chunk_046",
+    "plato_timaeus_chunk_047",
+    "plato_timaeus_chunk_048",
+    "plato_timaeus_chunk_049",
+    "plato_timaeus_chunk_050",
+    "plato_timaeus_chunk_051",
+    "plato_timaeus_chunk_052",
+    "plato_timaeus_chunk_053",
+    "plato_timaeus_chunk_054",
+    "plato_timaeus_chunk_055",
+    "plato_timaeus_chunk_056",
+    "plato_timaeus_chunk_057",
+    "plato_timaeus_chunk_058",
+    "plato_timaeus_chunk_059",
+    "plato_timaeus_chunk_060",
+    "plato_timaeus_chunk_061",
+    "plato_timaeus_chunk_062",
+    "plato_timaeus_chunk_063",
+    "plato_timaeus_chunk_064",
+    "plato_timaeus_chunk_065",
+    "plato_timaeus_chunk_066",
+    "plato_timaeus_chunk_067",
+    "plato_timaeus_chunk_068",
+    "plato_timaeus_chunk_069",
+    "plato_timaeus_chunk_070",
+    "plato_timaeus_chunk_071",
+    "plato_timaeus_chunk_072",
+    "plato_timaeus_chunk_073",
+    "plato_timaeus_chunk_074",
+    "plato_timaeus_chunk_075",
+    "plato_timaeus_chunk_076",
+    "plato_timaeus_chunk_077"
+  ],
+  "doc_meta": [
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 0,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 1,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 2,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 3,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 4,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 5,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 6,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 7,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 8,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 9,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 10,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 11,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 12,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 13,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 14,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 15,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 16,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 17,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 18,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 19,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 20,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 21,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 22,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 23,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 24,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 25,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 26,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 27,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 28,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 29,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 30,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 31,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 32,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 33,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 34,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 35,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 36,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 37,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 38,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 39,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 40,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 41,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 42,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 43,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 44,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 45,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 46,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 47,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 48,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 49,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 50,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 51,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 52,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 53,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 54,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 55,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 56,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 57,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 58,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 59,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 60,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 61,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 62,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 63,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 64,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 65,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 66,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 67,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 68,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 69,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 70,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 71,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 72,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 73,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 74,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 75,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 76,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 77,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 78,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 79,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 80,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 81,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 82,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 83,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 84,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 85,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 86,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 87,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 88,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 89,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 90,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 91,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 92,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 93,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 94,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 95,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 96,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 97,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 98,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 99,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 100,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 101,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 102,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 103,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 104,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 105,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 106,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 107,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 108,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 109,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 110,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 111,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 112,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 113,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 114,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 115,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 116,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 117,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 118,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 119,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 120,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 121,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 122,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 123,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 124,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 125,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 126,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 127,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 128,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 129,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 130,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 131,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 132,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 133,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 134,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 135,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 136,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 137,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 138,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 139,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 140,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 141,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 142,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 143,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 144,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 145,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 146,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 147,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 148,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 149,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 150,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 151,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 152,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 153,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 154,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 155,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 156,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 157,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 158,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 159,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 160,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 161,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 162,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 163,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 164,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 165,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 166,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 167,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 168,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 169,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 170,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 171,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 172,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 173,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 174,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 175,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 176,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 177,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 178,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 179,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 180,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 181,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 182,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 183,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 184,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 185,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 186,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 187,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 188,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 189,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 190,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 191,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 192,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 193,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 194,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 195,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 196,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 197,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 198,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 199,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 200,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 201,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 202,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 203,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 204,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 205,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 206,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 207,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 208,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 209,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 210,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 211,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 212,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 213,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 214,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 215,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 216,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 217,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 218,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 219,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 220,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 221,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 222,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 223,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 224,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 225,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 226,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 227,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 228,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 229,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 230,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 231,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 232,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 233,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 234,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 235,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 236,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 237,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 238,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 239,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 240,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 241,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 242,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 243,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 244,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 245,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 246,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 247,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 248,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 249,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 250,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "metaphysics",
+      "chunk_idx": 251,
+      "n_chunks": 252
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 0,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 1,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 2,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 3,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 4,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 5,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 6,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 7,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 8,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 9,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 10,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 11,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 12,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 13,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 14,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 15,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 16,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 17,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 18,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 19,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 20,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 21,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 22,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 23,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 24,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 25,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 26,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 27,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 28,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 29,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 30,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 31,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 32,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 33,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 34,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 35,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 36,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 37,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 38,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 39,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 40,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 41,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 42,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 43,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 44,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 45,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 46,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 47,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 48,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 49,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 50,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 51,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 52,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 53,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 54,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 55,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 56,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 57,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 58,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 59,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 60,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 61,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 62,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 63,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 64,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 65,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 66,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 67,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 68,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 69,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 70,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 71,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 72,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 73,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 74,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 75,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 76,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 77,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 78,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 79,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 80,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 81,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 82,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 83,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 84,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 85,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 86,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 87,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 88,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 89,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 90,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 91,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 92,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 93,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 94,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 95,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 96,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 97,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 98,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 99,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 100,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 101,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 102,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 103,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 104,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 105,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 106,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 107,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 108,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 109,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 110,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 111,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 112,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 113,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 114,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 115,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 116,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 117,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 118,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 119,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 120,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 121,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 122,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 123,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 124,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 125,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 126,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 127,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 128,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 129,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 130,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 131,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 132,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 133,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 134,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 135,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 136,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 137,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 138,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 139,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 140,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 141,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 142,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 143,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 144,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 145,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 146,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 147,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 148,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 149,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 150,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 151,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 152,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 153,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 154,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 155,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 156,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 157,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 158,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 159,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 160,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 161,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 162,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 163,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 164,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 165,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 166,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 167,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 168,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 169,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 170,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 171,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 172,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 173,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 174,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 175,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 176,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 177,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 178,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 179,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "nicomachean ethics",
+      "chunk_idx": 180,
+      "n_chunks": 181
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 0,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 1,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 2,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 3,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 4,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 5,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 6,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 7,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 8,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 9,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 10,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 11,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 12,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 13,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 14,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 15,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 16,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 17,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 18,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 19,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 20,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 21,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 22,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 23,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 24,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 25,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 26,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 27,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 28,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 29,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 30,
+      "n_chunks": 32
+    },
+    {
+      "author": "aristotle",
+      "work": "poetics",
+      "chunk_idx": 31,
+      "n_chunks": 32
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 0,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 1,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 2,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 3,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 4,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 5,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 6,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 7,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 8,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 9,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 10,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 11,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 12,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 13,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 14,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 15,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 16,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 17,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 18,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 19,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 20,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 21,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 22,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 23,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 24,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 25,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 26,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "apology",
+      "chunk_idx": 27,
+      "n_chunks": 28
+    },
+    {
+      "author": "plato",
+      "work": "ion",
+      "chunk_idx": 0,
+      "n_chunks": 12
+    },
+    {
+      "author": "plato",
+      "work": "ion",
+      "chunk_idx": 1,
+      "n_chunks": 12
+    },
+    {
+      "author": "plato",
+      "work": "ion",
+      "chunk_idx": 2,
+      "n_chunks": 12
+    },
+    {
+      "author": "plato",
+      "work": "ion",
+      "chunk_idx": 3,
+      "n_chunks": 12
+    },
+    {
+      "author": "plato",
+      "work": "ion",
+      "chunk_idx": 4,
+      "n_chunks": 12
+    },
+    {
+      "author": "plato",
+      "work": "ion",
+      "chunk_idx": 5,
+      "n_chunks": 12
+    },
+    {
+      "author": "plato",
+      "work": "ion",
+      "chunk_idx": 6,
+      "n_chunks": 12
+    },
+    {
+      "author": "plato",
+      "work": "ion",
+      "chunk_idx": 7,
+      "n_chunks": 12
+    },
+    {
+      "author": "plato",
+      "work": "ion",
+      "chunk_idx": 8,
+      "n_chunks": 12
+    },
+    {
+      "author": "plato",
+      "work": "ion",
+      "chunk_idx": 9,
+      "n_chunks": 12
+    },
+    {
+      "author": "plato",
+      "work": "ion",
+      "chunk_idx": 10,
+      "n_chunks": 12
+    },
+    {
+      "author": "plato",
+      "work": "ion",
+      "chunk_idx": 11,
+      "n_chunks": 12
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 0,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 1,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 2,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 3,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 4,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 5,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 6,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 7,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 8,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 9,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 10,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 11,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 12,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 13,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 14,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 15,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 16,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 17,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 18,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 19,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 20,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 21,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 22,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 23,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 24,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 25,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 26,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 27,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 28,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 29,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "meno",
+      "chunk_idx": 30,
+      "n_chunks": 31
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 0,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 1,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 2,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 3,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 4,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 5,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 6,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 7,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 8,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 9,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 10,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 11,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 12,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 13,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 14,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 15,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 16,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 17,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 18,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 19,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 20,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 21,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 22,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 23,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 24,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 25,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 26,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 27,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 28,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 29,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 30,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 31,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 32,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 33,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 34,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 35,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 36,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 37,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 38,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 39,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 40,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 41,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 42,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 43,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 44,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 45,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 46,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 47,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 48,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 49,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 50,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 51,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 52,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 53,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 54,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 55,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 56,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 57,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 58,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 59,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 60,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 61,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 62,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 63,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 64,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 65,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 66,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 67,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 68,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 69,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedo",
+      "chunk_idx": 70,
+      "n_chunks": 71
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 0,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 1,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 2,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 3,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 4,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 5,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 6,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 7,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 8,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 9,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 10,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 11,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 12,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 13,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 14,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 15,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 16,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 17,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 18,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 19,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 20,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 21,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 22,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 23,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 24,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 25,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 26,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 27,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 28,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 29,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 30,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 31,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 32,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 33,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 34,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 35,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 36,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 37,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 38,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 39,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 40,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 41,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 42,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 43,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 44,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 45,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 46,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 47,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 48,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 49,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 50,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 51,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 52,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "phaedrus",
+      "chunk_idx": 53,
+      "n_chunks": 54
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 0,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 1,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 2,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 3,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 4,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 5,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 6,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 7,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 8,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 9,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 10,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 11,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 12,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 13,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 14,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 15,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 16,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 17,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 18,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 19,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 20,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 21,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 22,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 23,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 24,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 25,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 26,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 27,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 28,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 29,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 30,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 31,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 32,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 33,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 34,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 35,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 36,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 37,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 38,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 39,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 40,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 41,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 42,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 43,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 44,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 45,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 46,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 47,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 48,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 49,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 50,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 51,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 52,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 53,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 54,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 55,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 56,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 57,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 58,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 59,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 60,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 61,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 62,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 63,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 64,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 65,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 66,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 67,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 68,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 69,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 70,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 71,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 72,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 73,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 74,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 75,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 76,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 77,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 78,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 79,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 80,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 81,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 82,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 83,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 84,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 85,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 86,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 87,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 88,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 89,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 90,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 91,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 92,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 93,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 94,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 95,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 96,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 97,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 98,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 99,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 100,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 101,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 102,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 103,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 104,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 105,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 106,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 107,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 108,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 109,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 110,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 111,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 112,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 113,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 114,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 115,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 116,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 117,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 118,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 119,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 120,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 121,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 122,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 123,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 124,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 125,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 126,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 127,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 128,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 129,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 130,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 131,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 132,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 133,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 134,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 135,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 136,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 137,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 138,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 139,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 140,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 141,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 142,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 143,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 144,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 145,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 146,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 147,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 148,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 149,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 150,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 151,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 152,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 153,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 154,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 155,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 156,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 157,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 158,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 159,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 160,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 161,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 162,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 163,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 164,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 165,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 166,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 167,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 168,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 169,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 170,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 171,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 172,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 173,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 174,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 175,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 176,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 177,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 178,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 179,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 180,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 181,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 182,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 183,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 184,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 185,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 186,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 187,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 188,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 189,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 190,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 191,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 192,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 193,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 194,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 195,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 196,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 197,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 198,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 199,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 200,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 201,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 202,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 203,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 204,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 205,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 206,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 207,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 208,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 209,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 210,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 211,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 212,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 213,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 214,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 215,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 216,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 217,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 218,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 219,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 220,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 221,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 222,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 223,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 224,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 225,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 226,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 227,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 228,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 229,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 230,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 231,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 232,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 233,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 234,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 235,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 236,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 237,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 238,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 239,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 240,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 241,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 242,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 243,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 244,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 245,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 246,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 247,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 248,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 249,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 250,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 251,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 252,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 253,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 254,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 255,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 256,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 257,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 258,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 259,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 260,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 261,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 262,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 263,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 264,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 265,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 266,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 267,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 268,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 269,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 270,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 271,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 272,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 273,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 274,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 275,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 276,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 277,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 278,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 279,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 280,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 281,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 282,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 283,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "republic",
+      "chunk_idx": 284,
+      "n_chunks": 285
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 0,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 1,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 2,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 3,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 4,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 5,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 6,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 7,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 8,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 9,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 10,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 11,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 12,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 13,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 14,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 15,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 16,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 17,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 18,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 19,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 20,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 21,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 22,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 23,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 24,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 25,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 26,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 27,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 28,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 29,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 30,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 31,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 32,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 33,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 34,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 35,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 36,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 37,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 38,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 39,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 40,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 41,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 42,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 43,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 44,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 45,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 46,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 47,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 48,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 49,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 50,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 51,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "sophist",
+      "chunk_idx": 52,
+      "n_chunks": 53
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 0,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 1,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 2,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 3,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 4,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 5,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 6,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 7,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 8,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 9,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 10,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 11,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 12,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 13,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 14,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 15,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 16,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 17,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 18,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 19,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 20,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 21,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 22,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 23,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 24,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 25,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 26,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 27,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 28,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 29,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 30,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 31,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 32,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 33,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 34,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 35,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 36,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 37,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 38,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 39,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 40,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 41,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 42,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 43,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 44,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 45,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 46,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 47,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 48,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 49,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 50,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 51,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 52,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 53,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 54,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "symposium",
+      "chunk_idx": 55,
+      "n_chunks": 56
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 0,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 1,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 2,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 3,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 4,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 5,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 6,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 7,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 8,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 9,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 10,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 11,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 12,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 13,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 14,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 15,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 16,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 17,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 18,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 19,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 20,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 21,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 22,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 23,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 24,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 25,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 26,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 27,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 28,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 29,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 30,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 31,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 32,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 33,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 34,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 35,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 36,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 37,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 38,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 39,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 40,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 41,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 42,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 43,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 44,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 45,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 46,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 47,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 48,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 49,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 50,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 51,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 52,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 53,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 54,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 55,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 56,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 57,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 58,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 59,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 60,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 61,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 62,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 63,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 64,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 65,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 66,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 67,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 68,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 69,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 70,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 71,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 72,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 73,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 74,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 75,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 76,
+      "n_chunks": 78
+    },
+    {
+      "author": "plato",
+      "work": "timaeus",
+      "chunk_idx": 77,
+      "n_chunks": 78
+    }
+  ]
+}
